@@ -41,7 +41,7 @@ RAGs-to-Riches/
 ├── poster/
 │   └── final_poster.pdf
 ├── report/
-│   └── 135_Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks_2page_report.pdf
+│   └── Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks_2page_report.pdf
 ├── README.md
 ├── LICENSE
 └── .gitignore
