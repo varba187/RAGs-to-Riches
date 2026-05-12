@@ -1,0 +1,1001 @@
+dataset,question_number,question,gold_answer,prediction,f1
+natural-questions,0,who are the basques and where do they live,Basques The Basques (/bɑːsks/ or /bæsks/; Basque: euskaldunak [eus̺kaldunak]; Spanish:,where do they live,0.0
+natural-questions,1,where does the name led zeppelin come from,Led Zeppelin The band completed the Scandinavian tour as the,the name led zeppelin,0.4
+natural-questions,2,where is the heart located in the rib cage,Thorax The anatomy of the chest can also be described,rib cage,0.0
+natural-questions,3,who sings everybody in the club get tipsy,"Tipsy (song) ""Tipsy"" is a record by American rapper J-Kwon.",Michael,0.0
+natural-questions,4,how many mg of thc to test positive,Cannabis drug testing The main metabolite excreted in the urine,0.4,0.0
+natural-questions,5,when did the roman capital moved to constantinople,Constantinople Constantinople (Greek: Κωνσταντινούπολις Kōnstantinoúpolis; Latin: Cōnstantīnopolis) was the capital,not_entailment,0.0
+natural-questions,6,what is obtaining property by false pretense in nc,False pretenses The elements of false pretenses are: (1) a,entailment,0.0
+natural-questions,7,who is the chief executive of the state of florida,Government of Florida The Governor of Florida is the chief,a florida state of florida,0.5
+natural-questions,8,who play mary poppins in mary poppins returns,Mary Poppins Returns Mary Poppins Returns is an upcoming American,mary poppins,0.3636363636363636
+natural-questions,9,last time the jags went to the playoffs,Jacksonville Jaguars The Jaguars and the Carolina Panthers joined the,not_entailment,0.0
+natural-questions,10,the stone tools associated with neandertal populations were first identified at the site of,Neanderthal Currently earliest fossils of Neanderthals in Europe are dated,entailment,0.0
+natural-questions,11,who plays shane cantrell on when calls the heart,"Niall Matter Matter attended the 2nd annual ""Hearties Family Reunion""",entailment,0.0
+natural-questions,12,what are the four basic forces of nature,"Fundamental interaction In physics, the fundamental interactions, also known as",not_entailment,0.0
+natural-questions,13,why mumbai is called financial capital of india,Mumbai Mumbai is India's largest city (by population) and is,not_entailment,0.0
+natural-questions,14,when does izzy get sick in grey's anatomy,Izzie Stevens Heigl garnered critical acclaim for her performance as,in grey's anatomy,0.0
+natural-questions,15,when was the american heart association website created,"American Heart Association On October 28, 2009 The American Heart",2009,0.19999999999999998
+natural-questions,16,when did the first divergent movie come out,"The Divergent Series The first installment, Divergent (2014), grossed over",when did the first divergent movie come out,0.26666666666666666
+natural-questions,17,what is the first diary of a wimpy kid movie,Diary of a Wimpy Kid (film) Diary of a Wimpy,the first diary of a wimpy kid movie,0.5714285714285715
+natural-questions,18,what does sancho panza symbolize as a character,Sancho Panza Sancho Panza offers interpolated narrative voice throughout the,character,0.0
+natural-questions,19,where does air force one land in washington,Andrews Air Force Base Andrews Air Force Base is the,washington,0.0
+natural-questions,20,who won the nobel peace prize in 2007,2007 Nobel Peace Prize The 2007 Nobel Peace Prize was,False,0.0
+natural-questions,21,when does a human embryo implant on the wall of the uterus,"Implantation (human embryo) In humans, implantation of a fertilized ovum",the wall of the uterus,0.16666666666666666
+natural-questions,22,who wrote tis the season to be jolly,Deck the Halls The English-language lyrics were written by the,not_entailment,0.0
+natural-questions,23,who sings beer is good god is great,"People Are Crazy ""People Are Crazy"" centralizes on the male",god,0.0
+natural-questions,24,where does the pledge of allegiance come from,Pledge of Allegiance (United States) The Pledge of Allegiance of,where,0.0
+natural-questions,25,where is the hallmark series good witch filmed,"The Good Witch Although set in ""Middleton, USA"", it was",filmed,0.0
+natural-questions,26,what is the difference between hail and ice pellets,Ice pellets Ice pellets are a form of precipitation consisting,not_entailment,0.0
+natural-questions,27,who did the ottoman empire defeated in 1453,Fall of Constantinople The Fall of Constantinople (Greek: Ἅλωσις τῆς,the ottoman empire,0.0
+natural-questions,28,who wrote how much wood could a woodchuck chuck,How much wood would a woodchuck chuck The origin of,Woodchuck,0.2222222222222222
+natural-questions,29,by default access points send beacon frames every how many ms,Beacon frame Infrastructure network access points send beacons at a,not_entailment,0.0
+natural-questions,30,main character of percy jackson and the lightning thief,Percy Jackson & the Olympians: The Lightning Thief Percy Jackson,not_entailment,0.0
+natural-questions,31,where is lars and the real girl set,"Lars and the Real Girl The film, set in the",set,0.25
+natural-questions,32,why did one of the states refuse to send delegates to the constitutional convention,"Constitutional Convention (United States) In September 1786, at the Annapolis",refuse to send delegates to the constitutional convention,0.25
+natural-questions,33,where does the term blood bath come from,"Niddah Niddah (or nidah; Hebrew: נִדָּה‬), in Judaism, describes a",not_duplicate,0.0
+natural-questions,34,what was the gulf of tonkin incident in 1964,Gulf of Tonkin incident The Gulf of Tonkin incident (Vietnamese:,1964,0.0
+natural-questions,35,who was the first guitarist to use distortion,"Distortion (music) The first guitar amplifiers were relatively low-fidelity, and",a guitarist to use distortion,0.14285714285714288
+natural-questions,36,what kind of car did they use in the movie christine,Christine (1983 film) Christine is a 1983 American horror film,car,0.0
+natural-questions,37,who put their fist up at the olympics,1968 Olympics Black Power salute The 1968 Olympics Black Power,not_entailment,0.0
+natural-questions,38,the leader of u.s. forces in the philippines during the filipino war was,"Philippine–American War On December 20, 1900, General Arthur MacArthur Jr.,",entailment,0.0
+natural-questions,39,when did labor unions began to gain legal rights,Labor unions in the United States American labor unions benefited,when did,0.0
+natural-questions,40,kobe bryant points in his first nba game,Kobe Bryant Bryant debuted in the Summer Pro League in,entailment,0.0
+natural-questions,41,who won world war 2 japan or usa,World War II The war in Europe concluded with an,japan,0.0
+natural-questions,42,what is significance of poppies on remembrance day,"Remembrance poppy Today, they are mostly used in the United",significance of poppies on remembrance day,0.13333333333333333
+natural-questions,43,who sings put the lime in the coconut and shake it all up,"Coconut (song) ""Coconut"" is a song written and first recorded",sings,0.0
+natural-questions,44,if the president disapproves of a measure and sends it back to the congress for reconsideration,"Presentment Clause The Presentment Clause, which is contained in Article",entailment,0.0
+natural-questions,45,how many points did donovan mitchell average in college,"Donovan Mitchell Mitchell decided to wear the jersey number 45,",2,0.0
+natural-questions,46,the supreme court decision in roe vs wade was based on the constitutional principle of,"Roe v. Wade Roe v. Wade, 410 U.S. 113 (1973),[1]",positive,0.0
+natural-questions,47,main character in proust remembrance of things past,In Search of Lost Time The novel recounts the experiences,entailment,0.0
+natural-questions,48,who played eric's sister on that 70s show,"Lisa Robin Kelly Kelly played Laurie Forman, the older sister",sister,0.19999999999999998
+natural-questions,49,where did the first potato chip come from,Potato chip The earliest known recipe for something similar to,from,0.0
+natural-questions,50,who sings the song in the heat of the night,"In the Heat of the Night (Ray Charles song) ""In",not_entailment,0.0
+natural-questions,51,when was the term domestic violence first used,Domestic violence The first known use of domestic violence in,the first time,0.1818181818181818
+natural-questions,52,i been waiting for a girl like you song,"Waiting for a Girl Like You ""Waiting for a Girl",not_entailment,0.0
+natural-questions,53,how did the society of friends get their nickname,"Quakers In 1650, Fox was brought before the magistrates Gervase",not_entailment,0.0
+natural-questions,54,where is the larynx located in the human body,"Larynx In adult humans, the larynx is found in the",where is the larynx,0.36363636363636365
+natural-questions,55,where does it say in the bible about the ten commandments,Ten Commandments The Ten Commandments appear twice in the Hebrew,the bible about the ten commandments,0.3333333333333333
+natural-questions,56,where are maple trees found in the us,Maple The Acer saccharum (sugar maple) are a contributor to,us,0.0
+natural-questions,57,when were the lyrics to the star spangled banner written,"The Star-Spangled Banner ""The Star-Spangled Banner"" is the national anthem",not_entailment,0.0
+natural-questions,58,i've got friends in low places extra verse,"Friends in Low Places The original version of ""Friends in",entailment,0.0
+natural-questions,59,who has been promoted to the premier league 2018-19,2018–19 Premier League Manchester City are the defending champions. Wolverhampton,2018-19,0.33333333333333337
+natural-questions,60,when does next episode of the ranch come out,The Ranch (TV series) All episodes are named after American,when,0.0
+natural-questions,61,was new york a red or blue state,"Elections in New York (state) Today, although New York (along",red,0.0
+natural-questions,62,according to ncf 2005 the role of a teacher has to be,National Curriculum Framework (NCF 2005) The NCF has aimed at,not_entailment,0.0
+natural-questions,63,ubi caritas et amor deus ibi est translation,Ubi caritas In the second typical edition (1975) of the,False,0.0
+natural-questions,64,what team has the most super bowls in the nfl,List of Super Bowl champions The Pittsburgh Steelers (6–2) have,nfl,0.0
+natural-questions,65,who plays mcgarrett's girlfriend on hawaii five o,"Michelle Borth Michelle Borth (born August 19, 1978) is an",entailment,0.0
+natural-questions,66,who wrote the song i never promised you a rose garden,"Rose Garden (Lynn Anderson song) ""Rose Garden"" (also known and",not_entailment,0.0
+natural-questions,67,who played the deaf guy in the replacements,"David Denman David Denman (born July 25, 1973) is an",False,0.0
+natural-questions,68,how is the united kingdom an example of a multinational state,Multinational state While the Office for National Statistics describes the,multinationalism,0.0
+natural-questions,69,is pink rock salt the same as sea salt,"Himalayan salt Although its salt is sometimes marketed as ""Jurassic",not_entailment,0.0
+natural-questions,70,when did attack of the clones come out,Star Wars: Episode II – Attack of the Clones The,when did it come out,0.0
+natural-questions,71,what are the two dominant ethnic groups on fiji,"Demographics of Fiji According to the 2007 Census of Fiji,",not_entailment,0.0
+natural-questions,72,what was the dean's name in animal house,Old School (film) Mitch's other friend Bernard (Vince Vaughn) throws,animal house,0.0
+natural-questions,73,what does the civil rights act of 1991 cover,Civil Rights Act of 1991 The Civil Rights Act of,not_entailment,0.0
+natural-questions,74,who sang dont forget me when im gone,"Don't Forget Me (When I'm Gone) ""Don't Forget Me (When",who sang,0.0
+natural-questions,75,adaptations of fasciola hepatica to a parasitic lifestyle,Fasciola hepatica F. hepaticaâ€™s tegument protects it from the enzymes,False,0.0
+natural-questions,76,what park is harry potter in at disney world,The Wizarding World of Harry Potter (Universal Orlando Resort) The,entailment,0.0
+natural-questions,77,when was harry potter and the deathly hallows part 1 filmed,Harry Potter and the Deathly Hallows – Part 1 Part,the deathly hallows part 1 filmed,0.6153846153846154
+natural-questions,78,what was the capital city of the aztec empire,"Tenochtitlan Tenochtitlan (Spanish: Tenochtitlan, Spanish pronunciation: [ˈmexiko tenotʃˈtitlan] ( listen)),",New York,0.0
+natural-questions,79,when did us get involved in vietnam war,Role of the United States in the Vietnam War The,vietnam war,0.4444444444444445
+natural-questions,80,when did super mario bros 2 come out,Super Mario Bros. 2 Super Mario Bros. 2[a] is a,not_entailment,0.0
+natural-questions,81,what is the length of the british coastline,Coastline of the United Kingdom The mapping authority for the,british coastline,0.22222222222222224
+natural-questions,82,who was the first documented leader of the israelite nation,Israelites Yahweh tells Moses that if Pharaoh refuses to let,False,0.0
+natural-questions,83,who owns the other 60 of epic games,Epic Games Epic Games owns video game developer Chair Entertainment,not_entailment,0.0
+natural-questions,84,how many times has the miami dolphins won the super bowl,Miami Dolphins The team made its first Super Bowl appearance,2,0.0
+natural-questions,85,dark side of the moon weeks on chart,The Dark Side of the Moon The Dark Side of,negative,0.0
+natural-questions,86,when is take me out to the ballgame sung,"Take Me Out to the Ball Game ""Take Me Out",not_entailment,0.0
+natural-questions,87,where is the strength of the magnetic field the weakest,Earth's magnetic field A map of intensity contours is called,the weakest,0.0
+natural-questions,88,was there a draft in world war 1,Selective Service Act of 1917 The Selective Service Act or,not_entailment,0.0
+natural-questions,89,what was the name of the transcontinental railroad,First Transcontinental Railroad The First Transcontinental Railroad (also called the,transcontinental railroad,0.4
+natural-questions,90,who played elizabeth bennet in bbc pride and prejudice,"Jennifer Ehle Jennifer Anne Ehle (/ˈiːliː/; born December 29, 1969)",False,0.0
+natural-questions,91,who sings could i have this kiss forever,"Could I Have This Kiss Forever ""Could I Have This",who sings,0.0
+natural-questions,92,when is 200 rupees note introduced in india,Indian 200-rupee note The Reserve Bank of India announced that,when is 200 rupees,0.14285714285714288
+natural-questions,93,when did the first tesla model s come out,Tesla Model S The Tesla Model S is a full-sized,1907,0.0
+natural-questions,94,is xbox one backwards compatible with original xbox games,List of Xbox games compatible with Xbox One During Microsoft's,not_entailment,0.0
+natural-questions,95,who played moaning myrtle in the harry potter movies,Shirley Henderson Shirley Henderson (born 24 November 1965) is a,entailment,0.0
+natural-questions,96,where on earth is there 24 hours of sunlight,Midnight sun Around the summer solstice (approximately 21 June in,where on earth,0.0
+natural-questions,97,in which nepali month does holi mostly fall,"Holi Holi, along with many other Hindu festivals, is celebrated",not_entailment,0.0
+natural-questions,98,what does tfsi stand for on an audi tt,Turbo fuel stratified injection Turbocharged fuel stratified injection (TFSI) denotes,tfsi,0.18181818181818182
+natural-questions,99,how many episode are there in season 4 of the originals,"The Originals (season 4) The Originals, a one-hour American supernatural",4,0.2222222222222222
+natural-questions,100,where did the first catholic mass takes place in the philippines,First Mass in the Philippines The first Catholic Mass in,philippines,0.2222222222222222
+natural-questions,101,who's the head coach of the buffalo bills,"List of Buffalo Bills head coaches Following Levy's retirement, the",Bill Gates,0.0
+natural-questions,102,what are the 2 most common elements in the universe,Abundance of the chemical elements Hydrogen is the most abundant, 2,0.0
+natural-questions,103,when did the black panther show up in comics,Black Panther (comics) Black Panther is a fictional superhero appearing,comics,0.19999999999999998
+natural-questions,104,in gel electrophoresis what is the purpose of the buffer,Gel electrophoresis There are limits to electrophoretic techniques. Since passing,not_entailment,0.0
+natural-questions,105,where did the term sixes and sevens come from,At sixes and sevens An ancient dispute between the Merchant,from,0.0
+natural-questions,106,where does the last name ewing come from,"Ewing (surname) The surname Ewing is of Scottish origin, and",ewing,0.19999999999999998
+natural-questions,107,who made when a man loves a woman,"When a Man Loves a Woman (song) ""When a Man",love a woman,0.22222222222222224
+natural-questions,108,how many episodes are in season 2 of chesapeake shores,"Chesapeake Shores On January 15, 2017, Hallmark announced that the",2,0.0
+natural-questions,109,is an ant an insect or an animal,"Ant Ants are eusocial insects of the family Formicidae and,",entailment,0.0
+natural-questions,110,do cows need to be pregnant to milk,Dairy cattle The dairy cow will produce large amounts of,not_entailment,0.0
+natural-questions,111,did klay thompson's dad play in the nba,"Mychal Thompson Mychal George Thompson (born January 30, 1955) is",not_entailment,0.0
+natural-questions,112,the meaning of the 10 plagues of egypt,Plagues of Egypt The plagues served to contrast the power,not_entailment,0.0
+natural-questions,113,when did the book of leviticus take place,Book of Leviticus The Book of Leviticus (/lɪˈvɪtɪkəs/) is the,2009,0.0
+natural-questions,114,who plays the faun in pan's labyrinth,"Doug Jones (actor) Doug Jones (born May 24, 1960)[1] is",entailment,0.0
+natural-questions,115,who voices natsu in fairy tail english dub,"Todd Haberkorn Todd Michael Haberkorn (born August 16, 1982) is",entailment,0.0
+natural-questions,116,what is the mother tongue of andhra pradesh,Ethnic groups of Andhra Pradesh Andhra Pradesh is a state,andhra pradesh,0.3636363636363636
+natural-questions,117,is there a second place prize in survivor,Survivor (franchise) The Sole Survivor receives a cash prize of,not_entailment,0.0
+natural-questions,118,who is the girl in the it gonna be me video,It's Gonna Be Me The video begins in a large,the girl in the it gonna be me video,0.75
+natural-questions,119,who played alf garnett's son in law,"Till Death Us Do Part Created by Johnny Speight, Till",son in law,0.0
+natural-questions,120,what is the age limit to buy alcohol in uk,Challenge 21 Challenge 21 and Challenge 25 are part of,not_duplicate,0.0
+natural-questions,121,explain the structure and functions of the brain,Human brain The human brain is the central organ of,not_entailment,0.0
+natural-questions,122,who was the first to start building the panama canal,"History of the Panama Canal By the late nineteenth century,",entailment,0.0
+natural-questions,123,when did the first scooby doo episode air,"Scooby-Doo Scooby-Doo, Where Are You! made its CBS network debut",2009,0.0
+natural-questions,124,who were the colonists who wished to separate from great britain,Loyalist (American Revolution) Loyalists were American colonists who remained loyal,the colonists,0.18181818181818182
+natural-questions,125,you shook me all night long video actress,"You Shook Me All Night Long In the second version,",False,0.0
+natural-questions,126,where is the heart located in a human body,"Heart The heart is a muscular organ in most animals,",where is the heart,0.36363636363636365
+natural-questions,127,to how many decimal places should the volume of a liquid in a burette be recorded,Burette The amount of solution added in or drained out,4 decimal places,0.0
+natural-questions,128,does a suspended sentence count as a custodial sentence,Suspended sentence A suspended sentence can be applied if the,not_entailment,0.0
+natural-questions,129,where did amelia lily come on the x factor,"Amelia Lily Known as the ""Comeback Kid"",[8] Lily auditioned for",x factor,0.0
+natural-questions,130,who is in the line of succession uk,Succession to the British throne Queen Elizabeth II is the,uk,0.0
+natural-questions,131,how long was the empire state building the tallest building,Empire State Building The Empire State Building stood as the,1.8,0.0
+natural-questions,132,when do you see darth vader's face,"Darth Vader During production of Return of the Jedi, the",not_entailment,0.0
+natural-questions,133,when do you need a supermajority in the senate,"Supermajority A supermajority, or a qualified majority, is a requirement",when do you need a supermajority in the senate,0.14285714285714285
+natural-questions,134,who won the first america's got talent,America's Got Talent (season 1) The first season of America's,a u's got talent,0.39999999999999997
+natural-questions,135,who played yondu in guardians of the galaxy 2,"Michael Rooker Michael Rooker (born April 6, 1955)[1] is an",entailment,0.0
+natural-questions,136,who is the young actor in the fios commercial,"Gaten Matarazzo Since 2017, Matarazzo has served as the spokesman",False,0.0
+natural-questions,137,when are the winter olympics going to end,2018 Winter Olympics closing ceremony The closing ceremony of the,not_entailment,0.0
+natural-questions,138,what movie has the song have a little faith in me,"Have a Little Faith in Me ""Have a Little Faith",the movie have a little faith in me,0.7142857142857143
+natural-questions,139,who were the 3 axis powers in ww2,Axis powers The Axis grew out of the diplomatic efforts,not_entailment,0.0
+natural-questions,140,when did we start using ce instead of ad,"Common Era The expression has been traced back to 1615,",not_entailment,0.0
+natural-questions,141,other names for rows on the periodic table,Periodic table The periodic table is a useful tabular arrangement,False,0.0
+natural-questions,142,who presents lets get a good thing going,Kevin Duala Kevin co-presented BBC One daytime series Health: Truth,who presents,0.0
+natural-questions,143,when did parents just don't understand come out,"Parents Just Don't Understand ""Parents Just Don't Understand"" is the",not_entailment,0.0
+natural-questions,144,in mahabharat who was born from two mothers,Jarasandha Jarasandha's father king Brihadratha was married to the twin,entailment,0.0
+natural-questions,145,who sang just a song before i go,"Just a Song Before I Go ""Just a Song Before",who sang just a song,0.3333333333333333
+natural-questions,146,black shield in nigerian coat of arm represent,Coat of arms of Nigeria The coat of arms of,entailment,0.0
+natural-questions,147,where did sheldon from big bang theory go to college,Sheldon Cooper Sheldon was interested in science from an early,college,0.0
+natural-questions,148,who played the warden in cool hand luke,What we've got here is failure to communicate The phrase,luke,0.0
+natural-questions,149,what is meant by the term duty of care in a care home,"Duty of care In tort law, a duty of care",duty of care,0.5
+natural-questions,150,who played the other twin in parent trap,The Parent Trap (1961 film) The Parent Trap is a,entailment,0.0
+natural-questions,151,when does burke come back in grey's anatomy,"Preston Burke While mentioned in passing throughout later seasons, Burke",when burke comes back in grey's anatomy,0.22222222222222224
+natural-questions,152,who played marty mcfly's father in back to the future,List of Back to the Future characters George Douglas McFly,False,0.0
+natural-questions,153,in which city of harappan civilization was the great granary excavated,"Mohenjo-daro In 1950, Sir Mortimer Wheeler identified one large building",Harappan,0.0
+natural-questions,154,what is a group of 4 bits called,"Nibble In computing, a nibble (occasionally nybble or nyble to",4 bits,0.0
+natural-questions,155,who was married to bet lynch in coronation street,"Alec Gilroy Alexander ""Alec"" Gilroy is a fictional character from",not_entailment,0.0
+natural-questions,156,where does the s from superman come from,"Superman logo In modern-day Superman stories published by DC, the",superman,0.18181818181818182
+natural-questions,157,is the house of representatives in the legislative branch,United States Congress The United States Congress is the bicameral,not_entailment,0.0
+natural-questions,158,what is bastille day and why is it important in france,Bastille Day The French National Day commemorates the first anniversary,important in france,0.0
+natural-questions,159,what happened to elliot on law and order special victims unit,"Elliot Stabler In the season 12 finale, Stabler is forced",not_entailment,0.0
+natural-questions,160,who wrote the song i only want to be with you,"I Only Want to Be with You ""I Only Want",i only want to be with you,0.8235294117647058
+natural-questions,161,who sang the original first cut is the deepest,"The First Cut Is the Deepest ""The First Cut Is",the deepest,0.25
+natural-questions,162,who starred in the new wonder woman movie,"Gal Gadot Gal Gadot-Varsano[3] (Hebrew: גל גדות‎‎, pronounced [ˈɡal ɡaˈdot];[4]",actress,0.0
+natural-questions,163,who directed in the heat of the night,In the Heat of the Night (film) In the Heat,entailment,0.0
+natural-questions,164,where is the wells fargo center in philadelphia,Wells Fargo Center (Philadelphia) The Wells Fargo Center is a,philadelphia,0.2222222222222222
+natural-questions,165,what is polyglot persistence in terms of nosql and database,"Polyglot persistence In 2006, Neal Ford coined the term ""polyglot",polyglot persistence,0.3636363636363636
+natural-questions,166,when did brock lesnar beat undertaker at wrestlemania,"The Streak (wrestling) The Streak became the cornerstone of WrestleMania,[11]",at wrestlemania,0.2
+natural-questions,167,where does the saying achilles heel come from,"Achilles' heel In Greek mythology, when Achilles was a baby,",achilles heel,0.3636363636363636
+natural-questions,168,who sings the part of anna in frozen,Anna (Disney) Princess Anna of Arendelle is a fictional character,anna in frozen,0.16666666666666666
+natural-questions,169,where did the battle of lake george take place,Battle of Lake George The Battle of Lake George was,Lake george,0.3636363636363636
+natural-questions,170,who sings hungry eyes from the dirty dancing soundtrack,"Hungry Eyes ""Hungry Eyes"" is a song performed by American",,0.0
+natural-questions,171,what is the south shore of long island,"South Shore (Long Island) The South Shore of Long Island,",South shore of long island,0.7142857142857143
+natural-questions,172,what is the title of the second harry potter book,Harry Potter and the Chamber of Secrets Harry Potter and,the second harry potter book,0.30769230769230765
+natural-questions,173,where will the 2020 winter olympics be held,"2022 Winter Olympics The 2022 Winter Olympics, officially known as",the Winter Olympics,0.3636363636363636
+natural-questions,174,who is covered by the accident compensation scheme,Accident Compensation Corporation The Accident Compensation Corporation (ACC) (Māori: Te,not_entailment,0.0
+natural-questions,175,what was the purpose of the voyager 2 mission,Voyager 2 Voyager 2 is a space probe launched by,not_entailment,0.0
+natural-questions,176,who was the first ruler of the western roman empire,"Western Roman Empire The political situation was unstable. In 383,",entailment,0.0
+natural-questions,177,how many seasons is in game of thrones,"List of Game of Thrones episodes As of August 27,",2,0.0
+natural-questions,178,did the potato reach london or paris first,History of the potato Sailors returning from the Andes to,not_entailment,0.0
+natural-questions,179,rad52 is involved in which type of dna damage repair,RAD52 RAD52 mediates RAD51 function in homologous recombinational repair (HRR),entailment,0.0
+natural-questions,180,who is the atlantis girl in justice league,"Mera (comics) Within the DC Extended Universe, American actress Amber",not_entailment,0.0
+natural-questions,181,who wrote the star spangled banner and what year,"The Star-Spangled Banner ""The Star-Spangled Banner"" is the national anthem",entailment,0.0
+natural-questions,182,where does the katy trail dallas start and end,Katy Trail (Dallas) The trail consists of a 12-foot-wide (3.7,where does katy trail dallas start and end,0.3157894736842105
+natural-questions,183,every how many years do cicadas come out,Periodical cicadas Magicicada species spend most of their 13- and,10,0.0
+natural-questions,184,who founded the st vincent de paul society,Society of Saint Vincent de Paul The Society of St.,st vincent de paul,0.6153846153846153
+natural-questions,185,did they ever show the gooch on different strokes,"Diff'rent Strokes An oft-mentioned character, spanning the entire show's run,",not_entailment,0.0
+natural-questions,186,where does the greatest resistance to airflow occur,Airway resistance An individual small airway has much greater resistance,where,0.0
+natural-questions,187,who designed the trophy of indian super league,"Indian Super League Designed by Frazer and Haws, the trophy",entailment,0.0
+natural-questions,188,when did the first mustang fastback come out,Ford Mustang (first generation) It was initially introduced as a,1999,0.0
+natural-questions,189,who does christina marry in grey's anatomy,"Cristina Yang Cristina Yang, M.D., Ph.D., is a fictional character",husband,0.0
+natural-questions,190,when did the battle of gettysburg begin and end,Battle of Gettysburg The Battle of Gettysburg (locally /ˈɡɛtɪsbɜːrɡ/ (,15,0.0
+natural-questions,191,why are countries different colours on a globe,Map coloring Color is a very useful attribute to depict,why are countries different colours on a globe,0.0
+natural-questions,192,when did the summer food service program start,Summer Food Service Program The Summer Food Service Program (SFSP),2009,0.0
+natural-questions,193,what president is mentioned in all in the family song,All in the Family And you knew where you were,not_entailment,0.0
+natural-questions,194,what does the b stand for in cz 75b,CZ 75 Most models have the capability of being fired,b,0.0
+natural-questions,195,who is the actress that plays in the movie peppermint,Peppermint (2018 film) Peppermint is a 2018 American vigilante action,actress,0.0
+natural-questions,196,where is grey matter found in the cerebrum,Grey matter Grey matter is distributed at the surface of,cerebrum,0.0
+natural-questions,197,wicked witch in once upon a time actress,Rebecca Mader Rebecca Leigh Mader (born 24 April 1977)[1][2] is,entailment,0.0
+natural-questions,198,where did the story of the pied piper come from,Pied Piper of Hamelin The Pied Piper of Hamelin (German:,from,0.0
+natural-questions,199,who voiced spider man in the new game,Spider-Man (2018 video game) Yuri Lowenthal is the voice actor,False,0.0
+natural-questions,200,the structure that supports the organ of corti is the,Organ of Corti The organ of Corti is located in,entailment,0.0
+natural-questions,201,blood enters the left atrium from which vessel,Atrium (heart) The atrium is the upper chamber in which,not_entailment,0.0
+natural-questions,202,when did the us get the louisiana purchase,Louisiana Purchase The Louisiana Purchase (French: Vente de la Louisiane,entailment,0.0
+natural-questions,203,the boy in the striped pyjamas brunos friends,The Boy in the Striped Pyjamas Bruno is a 9-year-old,False,0.0
+natural-questions,204,where is the national college championship game played,2018 College Football Playoff National Championship The College Football Playoff,Washington,0.0
+natural-questions,205,who is featured on birds in the trap,Birds in the Trap Sing McKnight Birds in the Trap,birds in the trap,0.5454545454545454
+natural-questions,206,where was the first long distance phone call made,"Long-distance calling ""On October 9, 1876, Alexander Graham Bell and",Washington D.C.,0.0
+natural-questions,207,summary of the poem in the bazaars of hyderabad written by sarojini naidu,"In the Bazaars of Hyderabad ""In The Bazaars of Hyderabad""",sarojini naidu,0.0
+natural-questions,208,who is the voice of the gecko on the geico commercials,GEICO advertising campaigns The company's ads sometimes focus on its,gecko,0.0
+natural-questions,209,what do the lyrics horse with no name mean,A Horse with No Name America's self-titled debut album was,horse with no name,0.5333333333333333
+natural-questions,210,when was the first tank used in battle,Tanks in World War I The first use of tanks,the first tank,0.1818181818181818
+natural-questions,211,when did the playstation 4 pro come out,PlayStation 4 PlayStation 4 Pro (codenamed Neo)[39] was announced on,not_entailment,0.0
+natural-questions,212,when did britain return hong kong to china,Transfer of sovereignty over Hong Kong The transfer of sovereignty,2009,0.0
+natural-questions,213,who took hatrick in both innings of test match,List of Test cricket hat-tricks A player has taken two,entailment,0.0
+natural-questions,214,spain and portugal divide the world between them in,Treaty of Tordesillas The Treaty of Tordesillas (Portuguese: Tratado de,not_entailment,0.0
+natural-questions,215,who are the native speakers of english language,English language English is the third most widespread native language,English,0.19999999999999998
+natural-questions,216,where does the saying katie bar the door come from,"Catherine Douglas The idiomatic phrase ""Katy, bar the door!"" (a",katie bar the door,0.4
+natural-questions,217,when was the last time glentoran won the league,"Glentoran F.C. On 7 July 2011, Glentoran beat Macedonian side",the last time glentoran won the league,0.12500000000000003
+natural-questions,218,what is the function of the ptt button on a two-way radio,"Two-way radio In two-way radios with headsets, a push-to-talk button",entailment,0.0
+natural-questions,219,who are this years x factor judges 2018,The X Factor (UK TV series) The original judging panel,2018,0.0
+natural-questions,220,who were the highwaymen and what did they do,The Highwaymen (country supergroup) The Highwaymen was a country music,what did they do,0.0
+natural-questions,221,who starred as dr. gregory house in the tv show house,"House (TV series) House (also called House, M.D.) is an",a s,0.0
+natural-questions,222,on what day of the year is the sun near the star regulus (alpha leo),Regulus Although best seen in the evening in northern hemisphere,day,0.0
+natural-questions,223,which amendment pertains to ones right to a jury trial,Juries in the United States Article III of the U.S.,a jury trial,0.0
+natural-questions,224,what is the tip of the tongue called,"Tongue The anterior tongue is, at its apex (or tip),",the tip of the tongue,0.3333333333333333
+natural-questions,225,who is the rapper that wears a clock,"Flavor Flav William Jonathan Drayton Jr. (born March 16, 1959),[2]",a clock,0.0
+natural-questions,226,who is guest judge on america got talent,America's Got Talent (season 13) The Judge Cuts rounds began,entailment,0.0
+natural-questions,227,who was black panther married to in the comics,Black Panther (comics) T'Challa then helps his old flame Ororo,not_entailment,0.0
+natural-questions,228,when does edward turn bella into a vampire,"Bella Swan In Twilight, Bella moves to her father's home",when edward turns bella into a vampire,0.11764705882352942
+natural-questions,229,when is the next jurassic world 2 coming out,Jurassic World: Fallen Kingdom Filming took place from February to,not_entailment,0.0
+natural-questions,230,what are the powers of the virginia executive branch,Government of Virginia Many executive branch agencies have the authority,the virginia executive branch,0.5
+natural-questions,231,who plays the evil wizard in lord of the rings,"Saruman In Peter Jackson's film trilogy (2001–2003), Saruman is significantly",lord of the rings,0.0
+natural-questions,232,when did han solo get the millenium falcon,Millennium Falcon Han Solo won the Millennium Falcon from Lando,when he got the millenium falcon,0.14285714285714285
+natural-questions,233,who lived in south carolina before european settlers,History of South Carolina Divided roughly along the Santee River,european settlers,0.0
+natural-questions,234,what year did the broncos win the super bowl,Denver Broncos The Broncos were barely competitive during their 10-year,2006,0.0
+natural-questions,235,who won the nba all-star game in 2018,2018 NBA All-Star Game The 2018 NBA All-Star Game was,False,0.0
+natural-questions,236,when did mens figure skating become an olympic sport,Figure skating The ISU was founded in 1892. The first,1999,0.0
+natural-questions,237,when does the new season of heartland come on tv,List of Heartland episodes The show became the longest-running one-hour,on tv,0.0
+natural-questions,238,who played miranda in sex and the city,"Cynthia Nixon Cynthia Ellen Nixon (born April 9, 1966) is",Michael Jordan,0.0
+natural-questions,239,who was goober on the andy griffith show,"George Lindsey George Smith Lindsey (December 17, 1928 â€“ May",andy griffith,0.0
+natural-questions,240,who wrote the music to the sound of music,The Sound of Music (film) The Sound of Music is,composers,0.0
+natural-questions,241,when did columbus become ohio's state capital,"Columbus, Ohio Columbus is the county seat of Franklin County.[24]",2009,0.0
+natural-questions,242,total number of seasons in big bang theory,"List of The Big Bang Theory episodes In March 2017,",False,0.0
+natural-questions,243,who sang the opera song in 5th element,"Inva Mula Inva Mula (born June 27, 1963) is an",entailment,0.0
+natural-questions,244,where did they film call me by your name,Call Me by Your Name (film) Call Me by Your,where did they film,0.14285714285714288
+natural-questions,245,country that with england declared war on germany after the german invasion of poland,Invasion of Poland France and the UK declared war on,poland declared war on germany,0.5714285714285714
+natural-questions,246,when was the last time the browns won 3 games in a row,2016 Cleveland Browns season The Browns entered this game looking,last time the browns won 3 games in a row,0.11764705882352941
+natural-questions,247,how did the hush puppy get its name,"Hushpuppy The first recorded use of the word ""hush-puppy"" dates",hush puppy,0.3636363636363636
+natural-questions,248,when does a record of how members of congress voted on an issue have to be recorded in the journal,"Congressional Record The Constitution, in Article I, Section 5, requires",when does a recorded how members of congress voted on an issue have to be recorded in the journal,0.08
+natural-questions,249,when did nhl players start to play in the olympics,Ice hockey at the Olympic Games The Olympic Games were,the olympics,0.0
+natural-questions,250,who killed hotchner's wife in criminal minds,Aaron Hotchner Hotch begins the series married to his high,criminal minds,0.0
+natural-questions,251,who plays diana in anne of green gables,"Megan Follows Megan Elizabeth Laura Diana Follows (born March 14,",Christopher Waugh,0.0
+natural-questions,252,who might serve as a board member on an irb at a hospital,Institutional review board The regulations set out the board's membership,irb,0.0
+natural-questions,253,what is the highest peak in the smokies,Clingmans Dome Clingmans Dome (or Clingman's Dome) is a mountain,the smokies,0.0
+natural-questions,254,when does the mitochondria replicate in the cell cycle,"Cell cycle The first phase within interphase, from the end",in the cell cycle,0.36363636363636365
+natural-questions,255,who plays freddy krueger in nightmare return to elm street,"A Nightmare on Elm Street (franchise) The original film, written",False,0.0
+natural-questions,256,what is the tv show true blood about,"True Blood The series revolves around Sookie Stackhouse (Anna Paquin),",True Blood,0.3636363636363636
+natural-questions,257,where did the saying pot calling kettle black come from,The pot calling the kettle black The earliest appearance of,from,0.0
+natural-questions,258,when was the constitution of the united states ratified,Timeline of drafting and ratification of the United States Constitution,when,0.0
+natural-questions,259,when did the movie white chicks come out,White Chicks White Chicks is a 2004 American comedy film,the movie white chicks,0.3333333333333333
+natural-questions,260,how many pilgrims were on the pilgrimage in the canterbury tales,The Canterbury Tales The Canterbury Tales is generally thought to,2,0.0
+natural-questions,261,who was the last team to repeat as super bowl champions,List of Super Bowl champions The Pittsburgh Steelers (6–2) have,New England,0.0
+natural-questions,262,who wrote the book a theory of justice,A Theory of Justice A Theory of Justice is a,a theory of justice,0.6
+natural-questions,263,when did the us stop the military draft,Conscription in the United States Senatorial opponents of the war,not_duplicate,0.0
+natural-questions,264,who plays cj on the bold and the beautiful,C.J. Garrison C.J. Garrison is a fictional character in the,cj,0.0
+natural-questions,265,who does the voice of batman in the lego batman movie,The Lego Batman Movie The Lego Batman Movie is a,batman,0.25
+natural-questions,266,the b'nai b'rith anti-defamation league focuses on what kind of issues,Anti-Defamation League The Anti-Defamation League (ADL; formerly known as the,not_entailment,0.0
+natural-questions,267,who played the doctor in star trek voyager,"Robert Picardo Robert Picardo (born October 27, 1953) is an",True,0.0
+natural-questions,268,what school district is la habra high school in,La Habra High School La Habra High School is a,San Diego,0.0
+natural-questions,269,what is considered a dangerously low sodium level,Hyponatremia Hyponatremia is a low sodium level in the blood.[3],sodium level,0.3636363636363636
+natural-questions,270,which fast and furious does letty die in,"Letty Ortiz In Fast & Furious, Letty and Dominic's new",fast and furious,0.4615384615384615
+natural-questions,271,who has the most gold gloves at catcher,List of Gold Glove Award winners at catcher Iván Rodríguez,catcher,0.15384615384615385
+natural-questions,272,russian composer created the music for the ballet the firebird,"The Firebird The Firebird (French: L'Oiseau de feu; Russian: Жар-птица,",not_entailment,0.0
+natural-questions,273,where did they film sisterhood of the traveling pants,The Sisterhood of the Traveling Pants (film) The film's production,where did they film,0.16666666666666666
+natural-questions,274,how many books will the magnus chase series be,Magnus Chase and the Gods of Asgard Magnus Chase and,2,0.0
+natural-questions,275,which supreme court case established the separate but equal doctrine,Separate but equal The doctrine was confirmed in the Plessy,entailment,0.0
+natural-questions,276,can you carry a pocket knife in china,Knife legislation Due to concerns about potential violence at the,entailment,0.0
+natural-questions,277,where is the atomic mass located on an element,Mass number The mass number is written either after the,on an element,0.0
+natural-questions,278,where was the mummy filmed with tom cruise,The Mummy (2017 film) Principal photography on the film began,tom cruise,0.0
+natural-questions,279,who is the winner of khatron ke khiladi in spain 2017,"Fear Factor: Khatron Ke Khiladi 8 The season, which was",False,0.0
+natural-questions,280,was the movie gangs of new york based on fact,Gangs of New York Gangs of New York is a,entailment,0.0
+natural-questions,281,is walmart and sam's club the same,"Sam's Club Sam's West, Inc. (doing business as Sam's Club)",not_entailment,0.0
+natural-questions,282,where was the movie hold the dark filmed,"Hold the Dark Principal photography began on February 27, 2017,",where,0.0
+natural-questions,283,who sings i can't stop this feeling anymore,"Can't Fight This Feeling ""Can't Fight This Feeling"" is a",who sings,0.0
+natural-questions,284,explain the difference between recorded and live music,"Music Music can be divided into genres (e.g., country music)",not_entailment,0.0
+natural-questions,285,what are the creatures in the woods american horror story,American Horror Story: Asylum Dr. Arden is a former Nazi,the creatures in the woods,0.0
+natural-questions,286,from what time period are most of the rocks in glacier national park,Glacier National Park (U.S.) The rocks found in the park,time period,0.0
+natural-questions,287,when does the new dunkirk film come out,Dunkirk (2017 film) The film premiered on 13 July 2017,when does the new dunkirk film come out,0.25
+natural-questions,288,how do you qualify for american express black card,Centurion Card The Centurion Card is invitation-only after appropriate net,not_entailment,0.0
+natural-questions,289,where did the term blood is thicker than water come from,Blood is thicker than water The equivalent proverb in German,from,0.0
+natural-questions,290,is there an i am number four sequel,Lorien Legacies I Am Number Four is the first book,not_entailment,0.0
+natural-questions,291,what is the definition of mass of an object,Mass Mass is both a property of a physical body,mass,0.2222222222222222
+natural-questions,292,which world culture features the singing style known as call and response,"Call and response (music) In Sub-Saharan African cultures, call and",call and response,0.42857142857142855
+natural-questions,293,what came first where wally or where waldo,Where's Wally? The first Where's Wally? book was published on,wally,0.16666666666666669
+natural-questions,294,who is one of the founding fathers of symbolic interactionism,Symbolic interactionism Symbolic Interactionism comes from a sociological perspective which,er,0.0
+natural-questions,295,when does the latest pirates of the caribbean come out,"Pirates of the Caribbean (film series) On January 14, 2011,",when does the latest pirates of the caribbean come out,0.35294117647058826
+natural-questions,296,which author is considered a well known member of the lost generation,"Lost Generation Sample members include Sinclair Lewis, who was the",False,0.0
+natural-questions,297,when did the gen 5 glock come out,"Glock In August 2017, Glock presented the ""fifth generation"" or",the gen 5 glock,0.16666666666666666
+natural-questions,298,in the bible who was thrown into the fiery furnace,"Shadrach, Meshach, and Abednego Shadrach, Meshach, and Abednego are figures",not_entailment,0.0
+natural-questions,299,who wrote you're going to love me,"And I Am Telling You I'm Not Going ""And I",entailment,0.0
+natural-questions,300,what is the median wage in the uk,Income in the United Kingdom In terms of global poverty,£7,0.0
+natural-questions,301,how many times did patriots play in superbowl,New England Patriots The Patriots have appeared in the Super,2,0.0
+natural-questions,302,where did the inbetweeners go in the first movie,The Inbetweeners Movie The Inbetweeners Movie is a 2011 British,where they went in the first movie,0.15384615384615383
+natural-questions,303,where is norfolk island located in relation to australia,Norfolk Island Norfolk Island (/ˈnɔːrfək/ ( listen); Norfuk: Norf'k Ailen[8]),australia,0.0
+natural-questions,304,when does the heart make the first heart sound (s1),"Heart sounds In healthy adults, there are two normal heart",s1),0.0
+natural-questions,305,who plays the queen of hearts in alice in wonderland,Helena Bonham Carter Bonham Carter joined the cast of Tim,alice,0.0
+natural-questions,306,who wrote guess who's coming to dinner,Guess Who's Coming to Dinner Guess Who's Coming to Dinner,False,0.0
+natural-questions,307,what happens to the girl who lights a fire,The Little Match Girl After running out of matches the,not_entailment,0.0
+natural-questions,308,what tonys did the book of mormon win,The Book of Mormon (musical) The show opened on Broadway,tonys,0.0
+natural-questions,309,what is the mode of action of aspirin,Mechanism of action of aspirin Aspirin causes several different effects,aspirin,0.18181818181818182
+natural-questions,310,when was the iphone first introduced to the market,"History of iPhone On January 2, 2007, Steve Jobs announced",the end of the year,0.15384615384615383
+natural-questions,311,who is the movie the butler based on,The Butler The Butler (full title Lee Daniels' The Butler)[4][5],not_entailment,0.0
+natural-questions,312,what is the meaning of steady state theory,"Steady State theory In cosmology, the Steady State theory is",not_duplicate,0.0
+natural-questions,313,who did the singing in i ll cry tomorrow,"I'll Cry Tomorrow ""Susan Hayward sings for the first time",i ll cry,0.4615384615384615
+natural-questions,314,who sings i'll make a man out of you,"I'll Make a Man Out of You ""I'll Make a",i will make a man out of you,0.7058823529411764
+natural-questions,315,what is a jackal in a tale of two cities,Sydney Carton Sydney Carton is introduced into the novel A,a jackal,0.0
+natural-questions,316,when was midsummer night's dream first performed,A Midsummer Night's Dream The play was entered into the,the first,0.0
+natural-questions,317,how many shipwrecks are there in the great lakes,"List of shipwrecks in the Great Lakes The Great Lakes,",2,0.0
+natural-questions,318,who sang the song valerie before amy winehouse,"Valerie (The Zutons song) ""Valerie"" is a song written by",valerie,0.2222222222222222
+natural-questions,319,what year did the movie batman come out,Batman (1989 film) Batman is a 1989 American superhero film,1999,0.0
+natural-questions,320,who discovered that energy travels in discrete units that he called quanta,Quantum The concept of quantization of radiation was discovered in,Quanta,0.0
+natural-questions,321,who sung the song let it go in frozen,"Let It Go (Disney song) ""Let It Go"" is a",the sung,0.0
+natural-questions,322,where do sound signals go in the brain,"Auditory cortex It is located bilaterally, roughly at the upper",brain,0.0
+natural-questions,323,where did the 2002 world cup take place,2002 FIFA World Cup The 2002 FIFA World Cup was,where,0.0
+natural-questions,324,who built red fort and in which year,Red Fort Constructed in 1639 by the fifth Mughal Emperor,which year,0.0
+natural-questions,325,are sylvanian families and calico critters the same,"Sylvanian Families In 1993, Tomy, who had been distributing the",not_entailment,0.0
+natural-questions,326,when did the pope give final approval for the congregation of the christian brothers,Congregation of Christian Brothers The Holy See formally established the,entailment,0.0
+natural-questions,327,who has the highest minimum wage in the us 2018,Minimum wage in the United States The average US minimum,us,0.2222222222222222
+natural-questions,328,when was the first wheel of fortune aired,Wheel of Fortune (U.S. game show) Wheel originally aired as,when the first wheel of fortune aired,0.4705882352941177
+natural-questions,329,who wrote the book of james in bible,"Epistle of James The author identifies himself as ""James, a",not_entailment,0.0
+natural-questions,330,how deep can man dive in the ocean,"Deep diving Amongst technical divers, there are divers who participate",how deep can man dive in the ocean,0.11764705882352941
+natural-questions,331,what part of the brain is memory affected by alcohol,Effects of alcohol on memory Alcohol acts as a general,memory affected by alcohol,0.30769230769230765
+natural-questions,332,identify one key event of the end of the ww2 1st indo-china war,"First Indochina War At the Potsdam Conference in July 1945,",not_entailment,0.0
+natural-questions,333,who wrote the city of new orleans song,"City of New Orleans (song) ""City of New Orleans"" is",the song,0.18181818181818182
+natural-questions,334,who wrote all the light you cannot see,All the Light We Cannot See All the Light We,not_entailment,0.0
+natural-questions,335,when did new zealand get its current flag,"Flag of New Zealand New Zealand's first flag, the flag",2009,0.0
+natural-questions,336,where was out of the furnace movie filmed,Out of the Furnace Principal photography began in the Pittsburgh,where,0.0
+natural-questions,337,who sang don't cry for me argentina original,Don't Cry for Me Argentina When the cast of the,original,0.0
+natural-questions,338,when does ariana grande release her new album,Sweetener (album) Sweetener is the fourth studio album by American,when,0.0
+natural-questions,339,what did the gold rush mean for native american groups living in california,California Gold Rush The California Gold Rush (1848–1855) began on,entailment,0.0
+natural-questions,340,when was the abolition of slavery in britain,Slavery Abolition Act 1833 The Act had its third reading,in britain,0.0
+natural-questions,341,where are the man o war jellyfish located,Portuguese man o' war The Atlantic Portuguese man o' war,entailment,0.0
+natural-questions,342,what is the deepest point in the mediterranean sea,Mediterranean Sea The Mediterranean Sea has an average depth of,not_entailment,0.0
+natural-questions,343,who sang i'm 18 with a bullet,Pete Wingfield Wingfield hit the singles charts on both sides,a bullet,0.0
+natural-questions,344,is principal financial group a fortune 500 company,"Principal Financial Group In 2014, Principal was ranked 298th on",False,0.0
+natural-questions,345,when was imperial bank was changed as sbi,Imperial Bank of India The Imperial Bank of India (IBI),not_entailment,0.0
+natural-questions,346,when did north and south vietnam become one country,"Northern and southern Vietnam From 1954 to 1975, Vietnam was",entailment,0.0
+natural-questions,347,where does the fuel go when a plane dumps it,Fuel dumping Fuel dumping operations are coordinated with air traffic,where,0.0
+natural-questions,348,who redefined the periodic table as being organized by atomic number not atomic weight,"History of the periodic table In 1914, a year before",George W. Bush,0.0
+natural-questions,349,who is the actor who plays citizen khan,"Adil Ray Adil Ray, OBE (born 26 April 1974) is",actor,0.0
+natural-questions,350,where is the temple in the sea located in trinidad,Temple in the Sea The Temple in the Sea is,trinidad,0.0
+natural-questions,351,where was the sound of music first performed,The Sound of Music The Sound of Music opened on,the sound of music first performed,0.4615384615384615
+natural-questions,352,how was cash and carry related to american neutrality,Cash and carry (World War II) The purpose of this,not_entailment,0.0
+natural-questions,353,who's got the fastest serve in tennis,Fastest recorded tennis serves The Association of Tennis Professionals (ATP),not_duplicate,0.0
+natural-questions,354,what is the song hello by adele about,"Hello (Adele song) Lyrically, the song focuses on themes of",adele,0.19999999999999998
+natural-questions,355,how many countries is a serbian film banned in,A Serbian Film Upon its debut on the art film,in,0.0
+natural-questions,356,how a population of wolves may have undergone speciation to form the first population of dogs,Evolution of the wolf Canis dirus[37] lived in the late,wolves may have undergone speciation to form the first population of dogs,0.09999999999999999
+natural-questions,357,who sings no one ever is to blame,"No One Is to Blame ""No One Is to Blame""",,0.0
+natural-questions,358,when was the idea of the trinity created,Trinity Trinitarian theologians believe that manifestations of the Trinity are,not_entailment,0.0
+natural-questions,359,the day of was the holiest day on the hebrew calendar,"Yom Kippur Yom Kippur (/jɔːm, joʊm, jɒm ˈkɪpər, kɪˈpʊər/;[1] Hebrew:",not_entailment,0.0
+natural-questions,360,what island did they film cast away on,"Cast Away Cast Away was filmed on Monuriki, one of",False,0.0
+natural-questions,361,when does dragon ball fighterz story take place,"Dragon Ball FighterZ In the timeline, the game takes place",not_entailment,0.0
+natural-questions,362,when did beast mode by future come out,Beast Mode (Future album) Beast Mode is the tenth mixtape,2014,0.0
+natural-questions,363,what are the 5 components of information system,Information system An information system (IS) is an organized system,2.2,0.0
+natural-questions,364,who tried to prevent the march on washington,"March on Washington Movement The March on Washington Movement (MOWM),",not_entailment,0.0
+natural-questions,365,how many 2 dollar bills are in a bundle,"Currency strap In the United States, the American Bankers Association",2,0.0
+natural-questions,366,who are the two characters who speak in danny deever,"Danny Deever The form is a dialogue, between a young",the two characters who speak in danny deever,0.2857142857142857
+natural-questions,367,what is the main reservoir for fresh water on earth,"Fresh water Out of all the water on Earth, saline",the main reservoir,0.0
+natural-questions,368,where does the president's helicopter land at the white house,South Lawn (White House) The south lawn provides space for,the white house,0.3636363636363636
+natural-questions,369,how much does it cost to get a hollywood star,"Hollywood Walk of Fame A fee of $40,000 (as of",cost,0.0
+natural-questions,370,when does the secretary of defense became president,United States Secretary of Defense The Secretary of Defense is,not_entailment,0.0
+natural-questions,371,who sings this is me from greatest showman,"This Is Me (Keala Settle song) ""This Is Me"" is",greatest showman,0.0
+natural-questions,372,who sang take my breath away in top gun,"Take My Breath Away ""Take My Breath Away"" is a",top gun,0.0
+natural-questions,373,who wrote the story for the shape of water,The Shape of Water The Shape of Water is a,water,0.25
+natural-questions,374,where is the law that requires income tax,Tax protester statutory arguments Tax protesters argue[citation needed] that there,California,0.0
+natural-questions,375,what organization was created after ww2 to promote world peace,United Nations The United Nations (UN) is an intergovernmental organization,World Peace Organization,0.18181818181818182
+natural-questions,376,when does ball in the family come on,Ball in the Family Ball in the Family is an,not_entailment,0.0
+natural-questions,377,are stomata found on both sides of a leaf,Stoma Stomata are present in the sporophyte generation of all,stomata,0.19999999999999998
+natural-questions,378,where is the pollution in delhi coming from,Environmental issues in Delhi Overpopulation and the ensuing overuse of,not_entailment,0.0
+natural-questions,379,what is the meaning of lean on me by bill withers,Lean on Me (song) Withers' childhood in the coal mining,not_entailment,0.0
+natural-questions,380,which is the last game of thrones book,A Song of Ice and Fire A Song of Ice,game of thrones,0.18181818181818182
+natural-questions,381,when did the army switch to the m4,"M4 carbine In 1984, the first model was made, and",m4,0.19999999999999998
+natural-questions,382,when did diesel only the brave come out,Only the Brave (2017 film) Principal photography began in June,not_entailment,0.0
+natural-questions,383,who was involved in the second great awakening,Second Great Awakening The Second Great Awakening was a Protestant,not_entailment,0.0
+natural-questions,384,who played barney in silence of the lambs,"Frankie Faison Frankie Russel Faison (born June 10, 1949), often",lambs,0.0
+natural-questions,385,the boat race course between putney and mortlake,The Boat Race The course is 4 miles and 374,True,0.0
+natural-questions,386,when was the last game of thrones book published,A Song of Ice and Fire A Song of Ice,when was the last game of thrones book published,0.125
+natural-questions,387,when did the army change from bdu to acu,"Army Combat Uniform First unveiled in June 2004, it is",acu,0.0
+natural-questions,388,is the prime minister part of the house of commons,Prime Minister's Questions Prime Minister's Questions (often abbreviated to PMQs,not_entailment,0.0
+natural-questions,389,who played the bride of frankenstein in the original movie,Bride of Frankenstein Bride of Frankenstein (advertised as The Bride,actress,0.0
+natural-questions,390,where does the cell theory state that cells come from,Cell theory Credit for developing cell theory is usually given,from,0.0
+natural-questions,391,who won ru paul drag race all stars 3,RuPaul's Drag Race All Stars (season 3) The winner of,entailment,0.0
+natural-questions,392,who runs the federal territories of the us,Territories of the United States Territories of the United States,the federal territories,0.2
+natural-questions,393,who sang the theme to gilligan's island,Gilligan's Island The first-season version was recorded by the folk,singer,0.0
+natural-questions,394,when was the constitution ratified by most states,History of the United States Constitution The United States Constitution,2009,0.0
+natural-questions,395,who is known for decades of research on gorillas in the mountain forests of africa,"Dian Fossey Dian Fossey (/daɪˈæn/; January 16, 1932 – c.",Dr. Yoko Ono,0.0
+natural-questions,396,who sings my love open the door to your heart,"Let My Love Open the Door ""Let My Love Open",the singer,0.0
+natural-questions,397,who was the founding father of the san gabriel mission,Mission San Gabriel Arcángel Mission San Gabriel was founded on,san gabriel,0.3076923076923077
+natural-questions,398,what does r e o speedwagon stand for,REO Speedwagon They made a list of songs to learn,speedwagon,0.19999999999999998
+natural-questions,399,is the movie se7en based on a book,Seven (1995 film) The primary influence for the film's screenplay,a book,0.0
+natural-questions,400,why is white matter on the inside of the brain,White matter White matter refers to areas of the central,not_entailment,0.0
+natural-questions,401,puerto rican store chain that began in the 1950s,Topeka (store) Topeka as a store chain began in the,entailment,0.0
+natural-questions,402,what grade is melody in out of my mind,Out of My Mind (Draper novel) Melody Brooks is an,not,0.0
+natural-questions,403,how many olympic gold medals does lebron james have,"LeBron James LeBron Raymone James Sr. (/ləˈbrɒn/; born December 30,",2,0.0
+natural-questions,404,surya the brave soldier (naa peru surya) 2018 hindi dubbed movie release date,"Naa Peru Surya, Naa Illu India The film was released",False,0.0
+natural-questions,405,what was the name of bangladesh before independence,History of Bangladesh The borders of modern Bangladesh were established,bangladesh,0.19999999999999998
+natural-questions,406,where did clap and a half come from,MatPat Patrick started a Let's Play series called GTLive on,from,0.0
+natural-questions,407,what kind of extinguishers are sometimes called abc,"ABC dry chemical Monoammonium phosphate, ABC Dry Chemical, ABE Powder,",abc,0.18181818181818182
+natural-questions,408,where is the next world cup held in 2030,2030 FIFA World Cup The bidding procedure has not yet,Australia,0.0
+natural-questions,409,who played chelsea on days of our lives,Chelsea Brady Chelsea Brady is a fictional character on the,who played chelsea,0.18181818181818182
+natural-questions,410,are you french if you are born in france,French nationality law The 1993 Méhaignerie Law required children born,you are born in france,0.13333333333333333
+natural-questions,411,where does the sea of galilee get its water,"Sea of Galilee The Sea of Galilee, also Kinneret or",where,0.0
+natural-questions,412,where do venus flytraps grow in north carolina,Venus flytrap The Venus flytrap is found in nitrogen- and,north carolina,0.0
+natural-questions,413,what is the american league record for most consecutive wins,List of Major League Baseball longest winning streaks The 1916,not_entailment,0.0
+natural-questions,414,how far is newnan georgia from atlanta georgia,"Newnan, Georgia Newnan is a city in Metro Atlanta and",distance,0.0
+natural-questions,415,where were st. bernards utilized as rescue dogs,St. Bernard (dog) The St. Bernard or St Bernard (/ˈbɜːrnərd/,rescue dogs,0.0
+natural-questions,416,when does season 7 scandal come out on netflix,Scandal (season 7) The seventh and final season of the,when,0.0
+natural-questions,417,has the indy 500 ever been rained out,Indianapolis 500 traditions The race has always been scheduled in,not_entailment,0.0
+natural-questions,418,what kind of newspaper was the capital gazette,The Capital The Capital is a daily newspaper published in,capital gazette,0.22222222222222224
+natural-questions,419,number of episodes in walking dead season 8,The Walking Dead (season 8) The eighth season of The,entailment,0.0
+natural-questions,420,flag with black yellow and red horizontal stripes,Flag of Germany The flag of Germany or German Flag,False,0.0
+natural-questions,421,what does bsa stand for as seen in bsa slr cycles,Birmingham Small Arms Company The Birmingham Small Arms Company Limited,bsa,0.0
+natural-questions,422,where did the english first attempt to colonize north america,British colonization of the Americas The British colonization of the,north america,0.0
+natural-questions,423,when is vikings season 5 part 2 starting,Vikings (season 5) The fifth season consists of a double,entailment,0.0
+natural-questions,424,the girl that played cindy lou who in the grinch,"Taylor Momsen Taylor Michel Momsen (born July 26, 1993)[1] is",entailment,0.0
+natural-questions,425,who signs the documents on behalf of the joint stock company,Joint-stock company The existence of a corporation requires a special,not_entailment,0.0
+natural-questions,426,who sang the only fools and horses theme song,Only Fools and Horses Only Fools and Horses has separate,False,0.0
+natural-questions,427,how many actresses played cully in midsomer murders,List of Midsomer Murders characters Cully Barnaby (later Dixon) (Laura,2,0.0
+natural-questions,428,how many floors does the aria las vegas have,Aria Resort and Casino The completed structure comprises two curvilinear,2,0.0
+natural-questions,429,meaning of the stripes in the us flag,Flag of the United States The flag of the United,not_entailment,0.0
+natural-questions,430,what is the android version of redmi note 4,Xiaomi Redmi Note 4 Xiaomi Redmi Note 4- codename nikel,not_entailment,0.0
+natural-questions,431,who has been appointed as the first president of brics promoted new development bank,"New Development Bank On 11 May 2015, K. V. Kamath",George W.,0.0
+natural-questions,432,where does the power and the glory take place,The Power and the Glory Greene's novel tells the story,where does the power and the glory take place,0.39999999999999997
+natural-questions,433,is there a fourth book of magnus chase,Magnus Chase and the Gods of Asgard Magnus Chase and,not_entailment,0.0
+natural-questions,434,who has won the world cup more times,FIFA World Cup The 21 World Cup tournaments have been,the world cup,0.3636363636363636
+natural-questions,435,when was the firth of forth bridge built,Forth Bridge Construction of the bridge began in 1882 and,2009,0.0
+natural-questions,436,who organized the native resistance to the british,Colony of Virginia Chief Opechancanough organized and led a well-coordinated,who organized the native resistance,0.14285714285714288
+natural-questions,437,when was the film goodnight mr tom made,Goodnight Mister Tom (film) Goodnight Mister Tom is a 1998,2006,0.0
+natural-questions,438,when was the indian currency devalued for the first time,"History of the rupee Since its Independence in 1947, India",2009,0.0
+natural-questions,439,when did i like it like that come out,"I Like It (Cardi B, Bad Bunny and J Balvin",when i like it like that come out,0.33333333333333326
+natural-questions,440,who gave the speech in cleremont france which began the crusades,Council of Clermont Pope Urban's speech on November 27 included,france,0.0
+natural-questions,441,where is the sweet sixteen being played 2018,2018 NCAA Division I Men's Basketball Tournament The 2018 NCAA,2018,0.18181818181818182
+natural-questions,442,one big union was the goal of which labor union,One Big Union (concept) As envisioned by the Industrial Workers,not_entailment,0.0
+natural-questions,443,what is the purpose of the international monetary fund,International Monetary Fund The International Monetary Fund (IMF) is an,not_entailment,0.0
+natural-questions,444,who put the first brick of golden temple,"Mian Mir According to Tawarikh-i-Punjab (1848), written by Ghulam Muhayy-ud-Din",entailment,0.0
+natural-questions,445,who plays the asian girl in deadpool 2,"Deadpool 2 Stefan Kapičić voices Colossus, an X-Man with the",False,0.0
+natural-questions,446,who makes the engine for the smart car,Smart Fortwo The 999 cc I3 Mitsubishi 3B2 engine (2007,engine,0.19999999999999998
+natural-questions,447,who does the voice of patrick on spongebob squarepants,"Bill Fagerbakke William Mark ""Bill"" Fagerbakke (/ˈfeɪɡərˌbɑːki/) is an American",not_entailment,0.0
+natural-questions,448,where is macedonia located in relation to greece,"Macedonia (Greece) Macedonia (/ˌmæsɪˈdoʊniə/ ( listen); Greek: Μακεδονία, Makedonía [maceðoˈnia])",in relation to greece,0.11111111111111112
+natural-questions,449,when was the first curious george book published,"Curious George When the first story, Cecily G. and the",1999,0.0
+natural-questions,450,are texas hold em and poker the same,Texas hold 'em Texas hold 'em (also known as Texas,False,0.0
+natural-questions,451,when was new year's day made a bank holiday,"Bank holiday In 1903, the Bank Holiday (Ireland) Act added",new year's day,0.0
+natural-questions,452,when the nile river flooded what did it leave behind,Flooding of the Nile Whilst the earliest Egyptians simply laboured,what did it leave behind,0.0
+natural-questions,453,who plays lily's dad in how i met your mother,Chris Elliott His other television credits include the chowder taster,not_entailment,0.0
+natural-questions,454,who is the actor that plays dale on walking dead,"Jeffrey DeMunn Jeffrey DeMunn (born April 25, 1947) is an",actor that plays,0.0
+natural-questions,455,where was the quick and the dead filmed,The Quick and the Dead (1995 film) Filming was originally,,0.0
+natural-questions,456,when was the flamingo in las vegas built,"Flamingo Las Vegas The property includes a 72,299-square-foot (6,716.8 m2)",2009,0.0
+natural-questions,457,who won three gold medals at the eight all african games,"Mary Onyali-Omagbemi Onyali-Omagbemi performed especially well in the All-Africa Games,",entailment,0.0
+natural-questions,458,a sequence of data is transmitted to a set of,Data transmission Analog or analogue transmission is a transmission method,entailment,0.0
+natural-questions,459,sajan re jhoot mat bolo sab tv actress name,Sajan Re Phir Jhooth Mat Bolo Jaiveer Paramveer Chopra (Hussain,entailment,0.0
+natural-questions,460,where are the falls in marble falls texas,"Marble Falls, Texas Marble Falls is located in southern Burnet",marble falls texas,0.4615384615384615
+natural-questions,461,when were the stocks last used in england,Stocks Their last recorded use in the United Kingdom was,entailment,0.0
+natural-questions,462,where does the dark reaction get its energy from,Dark energy Assuming that the standard model of cosmology is,where,0.0
+natural-questions,463,do you have to stop for a right turn on red,"Turn on red During 1982–1992, approximately 84 fatal crashes per",entailment,0.0
+natural-questions,464,tamil is the national language of which country,"Tamil language Tamil (English: /ˈtæmɪl/; தமிழ் Tamiḻ [t̪ɐmɨɻ], pronunciation (help·info))",Tamil,0.14285714285714288
+natural-questions,465,where does that 70's show take place,That '70s Show That '70s Show is an American television,where,0.0
+natural-questions,466,what was the outcome of the tannenberg battle,Battle of Tannenberg The Battle of Tannenberg was fought between,positive,0.0
+natural-questions,467,hotel that inspired stephen king to write the shining,The Stanley Hotel The Stanley Hotel hosted the horror novelist,entailment,0.0
+natural-questions,468,why did they call it the ivory coast,"Ivory Coast Originally, Portuguese and French merchant-explorers in the 15th",not_entailment,0.0
+natural-questions,469,who who is the prime minister of india,List of Prime Ministers of India Rajiv's five-year term ended,not_duplicate,0.0
+natural-questions,470,what fort supplied the cannon used to relieve the siege of boston,"Siege of Boston In November 1775, Washington sent the 25-year-old",the fort,0.0
+natural-questions,471,where was the homecoming a christmas story filmed,The Waltons The town of Walton's Mountain was built in,filmed,0.0
+natural-questions,472,who is the lead singer of all american rejects married to,Tyson Ritter Ritter and actress Elena Satine were engaged in,entailment,0.0
+natural-questions,473,who is covered under the civil rights act of 1964,Civil Rights Act of 1964 Powers given to enforce the,the civil rights act of 1964,0.7142857142857143
+natural-questions,474,what is middle class income in the united states,American middle class Many social scientists including economist Michael Zweig,0.4,0.0
+natural-questions,475,when does a navy seal earn his trident,"Special Warfare insignia The Special Warfare insignia, also known as",not_entailment,0.0
+natural-questions,476,where was c originally developed and by whom,C (programming language) C was originally developed by Dennis Ritchie,where,0.0
+natural-questions,477,what time of day does the view tape,The View (talk show) The View is an American talk,the time of day,0.0
+natural-questions,478,who did meryl streep play in the post,The Post (film) The Post is a 2017 American historical,entailment,0.0
+natural-questions,479,when did the usa formally recognize the people’s republic of china,China–United States relations President Gerald Ford visited the PRC in,not,0.0
+natural-questions,480,who played the punk girl in freaks and geeks,Bianca Kajlich Kajlich appeared in an episode of the USA,False,0.0
+natural-questions,481,when will tour de france teams be announced,2018 Tour de France The 18 UCI WorldTeams were automatically,when will tour de france teams be announced,0.35294117647058826
+natural-questions,482,first muslim c in c of pakistan navy,Chief of Naval Staff (Pakistan) The post was changed to,c in c,0.0
+natural-questions,483,who won america's next top model season 1,America's Next Top Model (season 1) This was the only,False,0.0
+natural-questions,484,can you play ps1 and ps2 games on a ps3,List of PlayStation and PlayStation 2 games compatible with PlayStation,ps3,0.0
+natural-questions,485,how many passengers does an airbus a321 hold,Airbus A321 The Airbus A321 is a member of the,2,0.0
+natural-questions,486,when did the french enter the revolutionary war,France in the American Revolutionary War France formally recognized the,not_duplicate,0.0
+natural-questions,487,where did us get the money for louisiana purchase,Louisiana Purchase The American government used $3 million in gold,where,0.0
+natural-questions,488,when was the final version of the bible created,Bible According to the Latin Decretum Gelasianum (also known as,not_entailment,0.0
+natural-questions,489,where did western europe's industrial revolution began,Industrial Revolution During the late 18th an early 19th centuries,west europe's industrial revolution began,0.28571428571428575
+natural-questions,490,where did martians land in war of the worlds,The War of the Worlds The narrative opens by stating,where,0.0
+natural-questions,491,when was in god we trust first put on our money,"In God We Trust ""In God We Trust"" first appeared",when was in god,0.28571428571428575
+natural-questions,492,where is the strait of magellan located on a map,Strait of Magellan The eastern opening is a wide bay,the strait of magellan,0.5454545454545454
+natural-questions,493,what is meant by the term role in sociology,Role A role (also rÃ´le or social role) is a,role in sociology,0.16666666666666666
+natural-questions,494,who did the treaty of versailles blame for the war,"Treaty of Versailles Of the many provisions in the treaty,",not_duplicate,0.0
+natural-questions,495,where is the us is the only memorial honoring an insect found,"Boll Weevil Monument The Boll Weevil Monument in downtown Enterprise,",where is the us,0.0
+natural-questions,496,who has been appointed as the new president of germany,President of Germany The 12th and current officeholder is Frank-Walter,germany,0.18181818181818182
+natural-questions,497,what are the five wizards of middle earth,Wizard (Middle-earth) The wizards of Middle-earth were Maiar: spirits of,not_entailment,0.0
+natural-questions,498,who owns the original han solo in carbonite,"Han Solo Han, still imprisoned in carbonite, is now Jabba's",entailment,0.0
+natural-questions,499,the first telegraph message was transmitted between two cities in,Electrical telegraph Samuel Morse independently developed and patented a recording,False,0.0
+natural-questions,500,where was australia's first federal government formed,"Australian federal election, 1901 Federal elections for the inaugural Parliament",Australia,0.0
+natural-questions,501,who is regarded as the father of modern computer,Alan Turing Turing was highly influential in the development of,George W.,0.0
+natural-questions,502,why is the us canada's largest trading partner,"List of the largest trading partners of Canada Historically, the",not_entailment,0.0
+natural-questions,503,protozoan classification used to be based on their means of,"Protozoa Historically, the Protozoa were classified as ""unicellular animals"", as",negative,0.0
+natural-questions,504,what is the speed of a falling object after 3 seconds,"Equations for a falling body Based on wind resistance, for",3 seconds,0.0
+natural-questions,505,when did the holstein cow come to america,Holstein Friesian cattle American breeders began to become interested in,the holstein cow came to america,0.26666666666666666
+natural-questions,506,who played padme in star wars the phantom menace,"Padmé Amidala George Lucas, Rick McCallum, and casting director Robin",entailment,0.0
+natural-questions,507,when is let it shine coming on again,"Let It Shine (2017 TV series) In June 2017, BBC",coming on again,0.0
+natural-questions,508,the second law of thermodynamics states that the entropy of the universe must always do what,Second law of thermodynamics The second law of thermodynamics states,not_entailment,0.0
+natural-questions,509,who won the le mans 24 hour race,2017 24 Hours of Le Mans The race was won,False,0.0
+natural-questions,510,when did color tv come out in us,Color television Although all-electronic color was introduced in the U.S.,not_entailment,0.0
+natural-questions,511,who wrote i'll wait by van halen,"I'll Wait ""I'll Wait"" is a song by the American",van halen,0.0
+natural-questions,512,is it legal to have a radar detector in texas,"Radar detector Radar jammers are not allowed under federal rule,",not_entailment,0.16666666666666669
+natural-questions,513,when did the first and second world war start,"World War I Prior to World War II, the events",not_entailment,0.0
+natural-questions,514,where does the ferry across the mersey go to,Mersey Ferry The Mersey Ferry is a ferry service operating,where,0.0
+natural-questions,515,when was the first time someone kneeled during the national anthem,U.S. national anthem protests (2016–present) The protests began in the,not_entailment,0.0
+natural-questions,516,who wrote the song the girl is mine,"The Girl Is Mine ""The Girl Is Mine"" is a",mine,0.25
+natural-questions,517,where was the wizards of waverly place filmed,Wizards of Waverly Place This series was created and as,where was filmed,0.15384615384615383
+natural-questions,518,who sang the song shes got the look,"Roxette Roxette are a Swedish pop rock duo, consisting of",the look,0.0
+natural-questions,519,what is the official track of hurricane irma,Hurricane Irma Given that Irma's forecast track was along much,hurricane irma,0.3076923076923077
+natural-questions,520,who made the concept of bhakti popular in south india,Bhakti movement The movement started with the Saiva Nayanars[41] and,not_entailment,0.0
+natural-questions,521,where does the term dressed to the nines come from,To the nines The phrase is said to be Scots,not_entailment,0.0
+natural-questions,522,where is the champions league final being played this year,2017 UEFA Champions League Final The 2017 UEFA Champions League,where is the champions league final being played,0.375
+natural-questions,523,who does the voiceover on the arby's commercials,Ving Rhames Rhames's deep voice is the center of many,the voiceover,0.0
+natural-questions,524,when did immigrants stop going through ellis island,"Ellis Island After its opening, Ellis Island was again expanded,",not_entailment,0.0
+natural-questions,525,when did the tiny and hungry caterpillar pop out of the egg,"The Very Hungry Caterpillar One Sunday morning, a red-faced caterpillar",when the caterpillar pops out of the egg,0.13333333333333333
+natural-questions,526,how much did it cost to make youtube,History of YouTube YouTube began as an angel-funded enterprise working,entailment,0.0
+natural-questions,527,what are the three major conditions that make up an area's climate,Weather and climate The most important factors affecting climate are,not_entailment,0.0
+natural-questions,528,what time period is rock of ages set in,"Rock of Ages (2012 film) In 1987, Sherrie Christian (Julianne",rock of ages,0.4615384615384615
+natural-questions,529,what is the origin of the name benjamin,"Benjamin (name) Benjamin is a popular given name for males,",not_duplicate,0.0
+natural-questions,530,what windows term describes moving from one location to another,File manager The process of moving from one location to,windows,0.0
+natural-questions,531,who appointed the first prime minister of india in 1947,"Jawaharlal Nehru Jawaharlal Nehru (/ˈneɪruː, ˈnɛruː/;[1] Hindustani: [ˈdʒəʋaːɦərˈlaːl ˈneːɦru] (",entailment,0.0
+natural-questions,532,what color is methylene blue in the reduced state,Methylene blue Methylene blue is widely used as a redox,methylene blue,0.3636363636363636
+natural-questions,533,where are white blood cells produced in the body,"White blood cell White blood cells (WBCs), also called leukocytes",where are white blood cells produced,0.37499999999999994
+natural-questions,534,evaluating business importance and testing the core business cases in an application is called,Business analysis Business analysis' 'Business Analysis as a practice helps,entailment,0.0
+natural-questions,535,who sang i've never been loved like this before,"Never Knew Love Like This Before ""Never Knew Love Like",who sang,0.0
+natural-questions,536,what is the meaning of azadi in hindi,"Azadi Azadi (Persian: آزادی‎ - Āzādī), from Persian, meaning freedom",azadi,0.19999999999999998
+natural-questions,537,when does morgan first call garcia baby girl,Derek Morgan (Criminal Minds) Morgan is intensely devoted to his,when morgan first calls garcia baby girl,0.11764705882352941
+natural-questions,538,what kind of bird is cornish game hen,"Cornish game hen In the United States, a Cornish game",hen,0.2222222222222222
+natural-questions,539,what mountain range is in sun valley idaho,"Sun Valley, Idaho The first destination winter resort in the",alpine,0.0
+natural-questions,540,when did the first rick and morty come out,Rick and Morty Rick and Morty is an American adult,1907,0.0
+natural-questions,541,who has a british accent on the walking dead,"Andrew Lincoln Andrew James Clutterbuck (born 14 September 1973),[1] better",british accent,0.0
+natural-questions,542,who sang a time for us in romeo and juliet,"Love Theme from Romeo and Juliet ""Love Theme from Romeo",entailment,0.0
+natural-questions,543,at the end of act v who will be crowned as new king of scotland,"Macduff (Macbeth) After Macbeth slays the young Siward, Macduff charges",act v,0.0
+natural-questions,544,how many home runs did willie mays have,Willie Mays Mays won two National League (NL) Most Valuable,2,0.0
+natural-questions,545,who played guitar solo on reeling in the years,"Elliott Randall Elliott Randall (born 1947) is an American guitarist,",a guitarist,0.19999999999999998
+natural-questions,546,movie where guy gets reincarnated as a dog,Fluke (film) Fluke is a mutt puppy (a wrong colored,film,0.2222222222222222
+natural-questions,547,where does the name hush puppies come from,"Hushpuppy The first recorded use of the word ""hush-puppy"" dates",hush puppies,0.1818181818181818
+natural-questions,548,what is a web browser on a computer,Web browser A web browser (commonly referred to as a,web browser,0.4
+natural-questions,549,who killed the starks at the red wedding,The Rains of Castamere Catelyn notices Roose Bolton wearing chainmail,red wedding,0.0
+natural-questions,550,which province of pakistan did not have any constitution during british rule,"Princely state During the period of the British Raj, there",pakistan,0.0
+natural-questions,551,who is the author of the little mermaid,"The Little Mermaid ""The Little Mermaid"" (Danish: Den lille havfrue)",a mermaid,0.2222222222222222
+natural-questions,552,what happened to chris on home and away,"Chris Harrington (Home and Away) In 2015, writers devised a",wris,0.0
+natural-questions,553,what year did superman the movie come out,Superman (1978 film) Superman (informally titled Superman: The Movie in,2006,0.0
+natural-questions,554,when does metal gear solid 1 take place,"Metal Gear Solid The year is 2005, six years after",not_entailment,0.0
+natural-questions,555,who created the walls in attack on titan,Eren Yeager It was then that Eren learns he possess,titan,0.0
+natural-questions,556,who is lead singer of rage against the machine,Rage Against the Machine Rage Against the Machine is an,rage against the machine,0.6
+natural-questions,557,triple h and stone cold tag team name,The Power Trip The Power Trip was a villainous professional,True,0.0
+natural-questions,558,who is the one that got away about,The One That Got Away (Katy Perry song) Originally titled,the one that got away about,0.5714285714285714
+natural-questions,559,when does celebrity big brother us start 2017,Celebrity Big Brother (U.S. TV series) Celebrity Big Brother is,2017,0.0
+natural-questions,560,who has the most career triple doubles in nba history,Double (basketball) A triple-double is the accumulation of a double-digit,nba history,0.0
+natural-questions,561,welsh actor who had theatre named after him,"Ivor Novello In 1993, the centenary of Novello's birth was",False,0.0
+natural-questions,562,where does the princess and the goblin take place,The Princess and the Goblin Eight-year-old Princess Irene lives a,where,0.0
+natural-questions,563,when did stephen hawking wrote a brief history of time,A Brief History of Time A Brief History of Time:,when did he write a brief history of time,0.5
+natural-questions,564,when was the fourth harry potter book released,Harry Potter and the Goblet of Fire The book was,the fourth harry potter book,0.5
+natural-questions,565,when did mr peabody and sherman come out,Mr. Peabody & Sherman It is the first DreamWorks animated,not_entailment,0.0
+natural-questions,566,is barbuda part of the us virgin islands,Antigua and Barbuda Antigua and Barbuda (/ænˈtiːɡə ənd bɑːrˈbjuːdə/ (,not_entailment,0.0
+natural-questions,567,chef with most michelin stars in the world,"Joël Robuchon Joël Robuchon (French pronunciation: ​[ʒɔɛl ʁobyʃɔ̃], born 7",False,0.0
+natural-questions,568,who did dolly parton wrote i will always love you,"I Will Always Love You The song, ""I Will Always",dolly parton,0.0
+natural-questions,569,when did the name of canada begin appearing on maps,Name of Canada European explorer Jacques Cartier transcribed the word,2006,0.0
+natural-questions,570,where is the urethral opening located in females,"Urinary meatus The urinary meatus, also known as the external",in females,0.0
+natural-questions,571,bee gees i've gotta get a message to you lyrics meaning,I've Gotta Get a Message to You The song is,not_entailment,0.0
+natural-questions,572,who is lifes about to get good about,Life's About to Get Good Twain formally announced the track,entailment,0.0
+natural-questions,573,when did the democratic and republican parties begin,Democratic-Republican Party The Democratic-Republican Party was an American political party,not_entailment,0.0
+natural-questions,574,where do you put an addendum in a letter,"Addendum In other documents, most importantly in legal contracts, an",not_entailment,0.0
+natural-questions,575,when did fullmetal alchemist brotherhood anime come out,"Fullmetal Alchemist: Brotherhood On March 20, 2009, it was announced",not_entailment,0.0
+natural-questions,576,game of thrones season 7 leaked episode guide,Game of Thrones (season 7) The season premiere was pirated,True,0.0
+natural-questions,577,the source document used to record the amount of time worked by an employee on a job is called the,Timesheet A timesheet (or time sheet) is a method for,not_entailment,0.0
+natural-questions,578,how is the council of ministers formed in a state,State governments of India The Chief Minister is appointed by,the council of ministers,0.16666666666666666
+natural-questions,579,who was the head of the senate committee that began hearings to investigate the watergate break-in,"Watergate scandal On February 7, 1973, the United States Senate",senate committee,0.1818181818181818
+natural-questions,580,how did the us help west berlin during the berlin blockade,Berlin Blockade The Western Allies organized the Berlin airlift (26,not_entailment,0.0
+natural-questions,581,who did zeus select to be the judge of which goddess was the fairest,"Judgement of Paris Three goddesses claimed the apple: Hera, Athena",which goddess was the fairest,0.0
+natural-questions,582,between 1900 and 1920 where did most of the migrants to the united states come from,History of immigration to the United States Between 1850 and,where did most of the migrants to the united states come from,0.4210526315789474
+natural-questions,583,who plays big rhonda on that 70's show,"Cynthia Lamontagne Cynthia Ann LaMontagne (born February 15, 1966) is",a s,0.0
+natural-questions,584,what is the most current season of walking dead,"List of The Walking Dead episodes In October 2016, the",not_entailment,0.0
+natural-questions,585,what's the name of a one piece ski suit,"Ski suit A ski suit can either be one-piece, in",one piece ski suit,0.5714285714285715
+natural-questions,586,what is the main focus of six sigma in an organization,Six Sigma Six Sigma (6Ïƒ) is a set of techniques,not_entailment,0.0
+natural-questions,587,when does kingdom hearts dream drop distance take place,Kingdom Hearts 3D: Dream Drop Distance Taking place after the,when does kingdom hearts dream drop distance,0.6250000000000001
+natural-questions,588,where is the world's strongest man 2017 being held,2017 World's Strongest Man The 2017 World's Strongest Man was,held,0.0
+natural-questions,589,what's in the middle of the colosseum,"Colosseum The Colosseum or Coliseum (/kɒləˈsiːəm/ kol-ə-SEE-əm), also known as",colosseum,0.13333333333333333
+natural-questions,590,where does the cascade range start and end,Cascade Range The Cascades extend northward from Lassen Peak (also,where does the cascade range start and end,0.25
+natural-questions,591,which smithsonian museum was in night at the museum,"Night at the Museum: Battle of the Smithsonian Larry Daley,",the museum was in night,0.3333333333333333
+natural-questions,592,who played the lead in the movie i can only imagine,I Can Only Imagine (film) I Can Only Imagine is,not_entailment,0.0
+natural-questions,593,who did sweeney todd meet on the ship back to london,Sweeney Todd: The Demon Barber of Fleet Street (2007 film),sweeney todd,0.3636363636363636
+natural-questions,594,where does billy costigan live in the film the depart what is the city,The Departed The film takes place in Boston. Irish Mob,what is the city,0.0
+natural-questions,595,when was the book ready player one written,Ready Player One Ready Player One is a 2011 LitRPG,not_entailment,0.0
+natural-questions,596,what is the sequel to the lion the witch and the wardrobe,The Chronicles of Narnia (film series) The Chronicles of Narnia,the wardrobe,0.0
+natural-questions,597,who is the movie rock star based on,Rock Star (2001 film) Rock Star is a 2001 American,Michael Cohen,0.0
+natural-questions,598,what properties cause a material to be a good insulator,Insulator (electricity) An electrical insulator is a material whose internal,insulator,0.2222222222222222
+natural-questions,599,is the man in the yellow hat named ted,"Curious George Aside from George himself, the only recurring character",ted,0.0
+natural-questions,600,who has the right to due process in the united states,Due Process Clause The due process clauses apply to both,not_duplicate,0.0
+natural-questions,601,what type of music is bach famous for,Johann Sebastian Bach Bach enriched established German styles through his,music,0.0
+natural-questions,602,who was the movie the rock dedicated to,Don Simpson Frustrated with Simpson's escalating drug use and declining,entailment,0.0
+natural-questions,603,when did kindergarten start in the united states,Kindergarten Women trained by FrÃ¶bel opened kindergartens throughout Europe and,entailment,0.0
+natural-questions,604,what is the book percy jackson and the lightning thief about,The Lightning Thief The novel charts the adventures of modern-day,percy jackson,0.0
+natural-questions,605,where did the original texas chainsaw massacre happen,The Texas Chain Saw Massacre The primary filming location was,texas,0.2222222222222222
+natural-questions,606,who is the author of the book titled the sellout,The Sellout (novel) The Sellout is a 2015 novel by,a sellout,0.25
+natural-questions,607,where does cancer of the larynx spread to,Laryngeal cancer Laryngeal cancer may spread by direct extension to,to the larynx,0.16666666666666669
+natural-questions,608,type of legislature established by the articles of confederation,Articles of Confederation The Articles formed a war-time confederation of,legislature,0.0
+natural-questions,609,when did mens wigs go out of fashion,Wig The wearing of wigs as a symbol of social,not_entailment,0.0
+natural-questions,610,what happens to the winners of america's got talent,America's Got Talent America's Got Talent (sometimes abbreviated as AGT),america's got talent,0.5
+natural-questions,611,how many albums has taylor swift sold overall,"Taylor Swift discography According to RIAA, Swift is the second-best-selling",2,0.0
+natural-questions,612,what did the golden bull of 1356 do,Golden Bull of 1356 The Golden Bull of 1356 (German:,do not,0.0
+natural-questions,613,who was involved in the arms race cold war,Nuclear arms race The nuclear arms race was a competition,Cold war,0.0
+natural-questions,614,who wrote the book romans in the bible,Epistle to the Romans The Epistle to the Romans or,romans,0.25
+natural-questions,615,is mary hardin baylor the same as baylor university,University of Mary Hardin–Baylor The University of Mary Hardinâ€“Baylor (UMHB),not_entailment,0.0
+natural-questions,616,what is the meaning of poverty in sociology,"Poverty In 1979, British sociologist, Peter Townsend published his famous",poverty,0.18181818181818182
+natural-questions,617,who was the first president of the united states why was he the choice of all,"United States presidential election, 1788–89 George Washington was enormously popular,",False,0.0
+natural-questions,618,who plays the voice of creek on trolls,Trolls: The Beat Goes On! Trolls: The Beat Goes On!,er,0.0
+natural-questions,619,when does a betting round end in texas holdem,"Betting in poker To aid players in tracking bets, and",when does a betting round end,0.13333333333333333
+natural-questions,620,where is angeles city located in the philippines,"Angeles, Philippines Angeles (Kapampangan: Lakanbalen ning Angeles; Filipino: Lungsod ng",angeles city,0.16666666666666669
+natural-questions,621,what do you understand by the term management,"Management Management (or managing) is the administration of an organization,",management,0.2222222222222222
+natural-questions,622,who sang the theme to licence to kill,"Licence to Kill (soundtrack) The prospect, however, fell apart and",Michael,0.0
+natural-questions,623,what is the book eat pray love about,"Eat, Pray, Love Eat, Pray, Love: One Woman's Search for",eat pray love,0.42857142857142855
+natural-questions,624,who sang riding on the city of new orleans,"City of New Orleans (song) ""City of New Orleans"" is",entailment,0.0
+natural-questions,625,when does the downbeat in a measure happen,"Beat (music) In typical Western music 4 4 time, counted",not_entailment,0.0
+natural-questions,626,where was don't let the sun go down on me filmed,Don't Let the Sun Go Down on Me The footage,filmed,0.0
+natural-questions,627,who fought a war against sweden to expand russia's size,Great Northern War The war began when an alliance of,russia,0.0
+natural-questions,628,when did the battle of germantown start and end,Battle of Germantown The Battle of Germantown was a major,1907,0.0
+natural-questions,629,who sang spread your tiny wings and fly away,"Snowbird (song) ""Snowbird"" is a song by the Canadian songwriter",who sang,0.0
+natural-questions,630,the supreme court's ruling in furman v. georgia revolved around,"Furman v. Georgia In the following four years, 37 states",positive,0.0
+natural-questions,631,how did the wailin jennys get their name,"The Wailin' Jennys The group was founded in 2002, when",not_entailment,0.0
+natural-questions,632,when was the last game michael jordan played,Michael Jordan Jordan played in his final NBA game on,last game,0.16666666666666669
+natural-questions,633,where does the esophagus pass through the diaphragm,"Esophageal hiatus In human anatomy, the esophageal hiatus is an",the diaphragm,0.0
+natural-questions,634,who was the race car driver who lost both of his legs,"Alex Zanardi In his most competitive race of 2001, the",entailment,0.0
+natural-questions,635,who is the song long may you run about,"Long May You Run The album's advance single, ""Long May",not_entailment,0.0
+natural-questions,636,can you legally own a firearm in the uk,Firearms policy in the United Kingdom Members of the public,not_entailment,0.0
+natural-questions,637,when did the us and uk become allies,"United Kingdom–United States relations Britishâ€“American relations, also referred to as",when did the us and uk become allies,0.0
+natural-questions,638,when did the song its tricky come out,"It's Tricky ""It's Tricky"" is the fourth and final single",when did the song its tricky come out,0.1111111111111111
+natural-questions,639,where is virgin islands located on the map,United States Virgin Islands The United States Virgin Islands (USVI;,where is virgin islands located,0.2857142857142857
+natural-questions,640,the coquette or the history of eliza wharton summary,"The Coquette The story is about Eliza Wharton, the daughter",not_entailment,0.0
+natural-questions,641,who sang there is a ghost in my house,"There's a Ghost in My House ""There's a Ghost in",ghost,0.18181818181818182
+natural-questions,642,when was the 1000 bill taken out of circulation,Large denominations of United States currency Large denominations of United,not_entailment,0.0
+natural-questions,643,who played quincy's wife in the last ship,List of The Last Ship characters Quincy Tophet's wife and,Maria,0.0
+natural-questions,644,actress who played scout to kill a mockingbird,"Mary Badham Mary Badham (born October 7, 1952) is an",actress who played scout,0.0
+natural-questions,645,who is credited with promoting the use of factor analysis and why,Factor analysis Charles Spearman pioneered the use of factor analysis,Robert DeWitt,0.0
+natural-questions,646,why do leaflets of mimosa fold when touched,"Mimosa pudica Mimosa pudica[3] (from Latin: pudica ""shy, bashful or",not_entailment,0.0
+natural-questions,647,where do they use stones to measure weight,Stone (unit) England and other Germanic-speaking countries of northern Europe,where,0.0
+natural-questions,648,what type of building was the hagia sophia,Hagia Sophia Hagia Sophia (/ˈhɑːɡiə soʊˈfiːə/; from the Greek: Αγία,building,0.0
+natural-questions,649,line demarcation the boundary between north korea and south korea,"Military Demarcation Line The Military Demarcation Line (MDL), sometimes referred",False,0.0
+natural-questions,650,when will the california high speed rail be completed,California High-Speed Rail This system will be built in two,not_entailment,0.0
+natural-questions,651,what is lady macbeth's role in killing the king,Lady Macbeth Lady Macbeth is a leading character in William,not_entailment,0.0
+natural-questions,652,what was owl city's first song ever,"Owl City After two independent releases, Owl City gained mainstream",owl city's first song ever,0.25
+natural-questions,653,how many times has france won the world cup soccer,"France at the FIFA World Cup In 2006, France finished",not_entailment,0.0
+natural-questions,654,why are the brix readings of fermented solutions usually higher than unfermented beverages,Brix Alcohol has a higher refractive index (1.361) than water,higher than unfermented beverages,0.28571428571428575
+natural-questions,655,what is the average age of the united states population,Demography of the United States There were about 125.9 million,age,0.0
+natural-questions,656,can you buy beer on sunday in pa,Alcohol laws of Pennsylvania Pennsylvania is an alcoholic beverage control,pa,0.0
+natural-questions,657,what does the prime minister of the uk do,Prime Minister of the United Kingdom The Prime Minister is,not_entailment,0.0
+natural-questions,658,what kind of drug is vyvanse classified as,Lisdexamfetamine Lisdexamfetamine (contracted from L-lysine-dextroamphetamine) is a prodrug of the,drug,0.0
+natural-questions,659,how far is raleigh north carolina to charlotte north carolina,"Raleigh, North Carolina Raleigh is located in the northeast central",from raleigh north carolina,0.46153846153846156
+natural-questions,660,who won the super bowl steelers or cardinals,Super Bowl XLIII Super Bowl XLIII was an American football,Steelers or cardinals,0.0
+natural-questions,661,where is the gran chaco located in south america,Gran Chaco The Gran Chaco or Dry Chaco is a,south america,0.0
+natural-questions,662,who plays stella on how i met your mother,"Sarah Chalke Sarah Chalke (/tʃɔːk/; born August 27, 1976) is",your mother,0.0
+natural-questions,663,kelly clarkson when she was on american idol,"Kelly Clarkson Kelly Brianne Clarkson (born April 24, 1982) is",False,0.0
+natural-questions,664,i've got a brand new pair of roller skates original artist,"Brand New Key ""Brand New Key"" is a pop song",entailment,0.0
+natural-questions,665,where did the san diego chargers play their home games,Los Angeles Chargers The Los Angeles Chargers are a professional,home,0.0
+natural-questions,666,when is the last time it snowed in miami florida,Cold wave of January 1977 The Cold wave of January,last time it snowed,0.0
+natural-questions,667,how long does it take for castration bands to work,"Elastration Elastration involves restraining the animal, without the need for",entailment,0.0
+natural-questions,668,where did the top of mt st helens land,"1980 eruption of Mount St. Helens Suddenly, at 8:32 a.m.,",where,0.0
+natural-questions,669,who plays deena on the young and the restless,"Marla Adams Marla Adams (born August 28, 1938; Ocean City,",deena,0.0
+natural-questions,670,when did vance's wife die on ncis,Shabbat Shalom (NCIS) Tony and McGee hurry to the site,ncis,0.19999999999999998
+natural-questions,671,when is the new season of letterkenny coming out,"Letterkenny (TV series) On March 10, 2016, Letterkenny was renewed",not_entailment,0.0
+natural-questions,672,when did red solo cups start being made,"Solo Cup Company In the 1970s, Hulseman's son, Robert Leo",when did they start being made,0.0
+natural-questions,673,is it legal to carry a gun in nyc,Gun laws in New York New York state law does,True,0.0
+natural-questions,674,who came up with daylight savings time wikipedia,Daylight saving time George Hudson proposed the idea of daylight,wikipedia,0.0
+natural-questions,675,normochromic pertains to what aspect of a blood cell,Normochromic anemia Normochromic is a form of anemia in which,blood cell,0.0
+natural-questions,676,how often do lego minifigures series come out,Lego Minifigures (theme) On average a new series has been,rarely,0.0
+natural-questions,677,who is the speaker of the house representative now,Speaker of the United States House of Representatives The current,now,0.0
+natural-questions,678,what was van halen's original band name,Van Halen The Van Halen brothers formed their very first,band name,0.0
+natural-questions,679,where the little house on the prairie was filmed,Little House on the Prairie (TV series) Interior shots were,where,0.0
+natural-questions,680,where did the latin american revolution take place,Latin American wars of independence The Latin American wars of,where,0.0
+natural-questions,681,where are the brakes located in a car,Car controls In modern cars the four-wheel braking system is,in a car,0.33333333333333337
+natural-questions,682,what are at least two critical functions that fluid within the body provides,Extracellular fluid The extracellular fluid provides the medium for the,two,0.0
+natural-questions,683,where does the calvin cycle take place in c4 plants,"C4 carbon fixation In C3 plants, the first step in",c4 plants,0.3636363636363636
+natural-questions,684,how old is the diamondback at kings island,Diamondback (roller coaster) Diamondback is a steel roller coaster designed,entailment,0.0
+natural-questions,685,where did the cherokee trail of tears start,Trail of Tears The Trail of Tears was a series,not_entailment,0.0
+natural-questions,686,when did the first episode of spongebob come out,SpongeBob SquarePants (season 1) The first season of the American,1999,0.0
+natural-questions,687,what is the nearest metro station to new delhi railway station,New Delhi metro station New Delhi is a station on,entailment,0.0
+natural-questions,688,who was responsible for establishing the supreme court as an independent branch of the government,John Marshall The longest-serving chief justice and the fourth longest-serving,the government,0.0
+natural-questions,689,who plays blair's dad in gossip girl,List of Gossip Girl characters Portrayed by John Shea in,not_entailment,0.0
+natural-questions,690,what is the name of the smallest hummingbird,"Bee hummingbird The bee hummingbird, zunzuncito or Helena hummingbird (Mellisuga",smallest hummingbird,0.1818181818181818
+natural-questions,691,where is the story of alma the younger,"Alma the Younger According to the Book of Mormon, Alma,",alma the younger,0.4
+natural-questions,692,what is the bridge in saturday night fever,Saturday Night Fever Tony's friends come to the car along,saturday night fever,0.4615384615384615
+natural-questions,693,what was the first animal domesticated by humans,"Domestication The dog was the first domesticated vertebrate,[9][10][11] and was",animal,0.0
+natural-questions,694,who made the first offer to buy the port city of orleans,Louisiana Purchase James Monroe and Robert R. Livingston had traveled,entailment,0.0
+natural-questions,695,when does the regular season nfl football start,2018 NFL season The 2018 NFL season is the 99th,not_entailment,0.0
+natural-questions,696,who killed the king in the dragon prince,The Dragon Prince The series is set in a fantasy,dragon prince,0.4444444444444445
+natural-questions,697,when does unsolved biggie and tupac come out,Unsolved (U.S. TV series) Unsolved is an American true crime,when,0.0
+natural-questions,698,where does a bill go next if the conference committee succeeds,United States congressional conference committee Once a bill has been,the conference committee,0.3636363636363636
+natural-questions,699,where does the family from alaska the last frontier live,Alaska: The Last Frontier Alaska: The Last Frontier is an,alaska the last frontier,0.6
+natural-questions,700,bottle top bill and his best friend corky uk,The Adventures of Bottle Top Bill and His Best Friend,False,0.0
+natural-questions,701,what was the role of the national convention in the french revolution,National Convention The National Convention (French: Convention nationale) was the,in the french revolution,0.18181818181818182
+natural-questions,702,what type of car is bumblebee in transformers 1,Bumblebee (Transformers) Bumblebee is a fictional character from the Transformers,bumblebee,0.2222222222222222
+natural-questions,703,how many episodes are in season 4 of nikita,Nikita (season 4) The fourth and final season of Nikita,4,0.19999999999999998
+natural-questions,704,how long is a mayor's term in nj,"Mayor of Jersey City, New Jersey The Mayor of the",nj,0.0
+natural-questions,705,when was the last time manchester united won the champions league,Manchester United F.C. in European football The competition in which,the last time manchester united won the champions league,0.23529411764705882
+natural-questions,706,what ship was cher on in the video if i could turn back time,If I Could Turn Back Time The music video for,the ship cher on,0.0
+natural-questions,707,for a continental area to experience a cfb climate it must be located,"Oceanic climate Temperate oceanic climates, also known as ""marine mild",entailment,0.0
+natural-questions,708,how to find the valuation of a stock,"Stock valuation The most theoretically sound stock valuation method, called",find the valuation of a stock,0.30769230769230765
+natural-questions,709,who is the lead singer in sleeping with sirens,Sleeping with Sirens Sleeping with Sirens is an American rock,False,0.0
+natural-questions,710,when did the us normalize relations with china,China–United States relations In the Joint Communiqué on the Establishment,not_entailment,0.0
+natural-questions,711,most popular car colors in the united states,Car colour popularity A 2013 survey in the United States,not_entailment,0.0
+natural-questions,712,who helped build mission san francisco de asis,"Mission San Francisco de Asís Mission San Francisco de Asís,",entailment,0.0
+natural-questions,713,who has the most strikeouts in mlb history by a batter,List of Major League Baseball career strikeouts by batters leaders,entailment,0.0
+natural-questions,714,how many federal workers are there in the us,United States federal civil service According to the Office of,not_entailment,0.0
+natural-questions,715,who wrote each book of the new testament,New Testament Collections of related texts such as letters of,entailment,0.0
+natural-questions,716,what must a scientist do prior to generating a hypothesis,"Scientific method A hypothesis is a conjecture, based on knowledge",not_entailment,0.0
+natural-questions,717,who plays gaston on once upon a time,Wes Brown (actor) In 2016 Brown made a guest appearance,James Gordon,0.0
+natural-questions,718,who was the ruler of akkad who established the first empire in sumer ca. 2340 b.c.e,Akkadian Empire The Akkadian Empire reached its political peak between,akkad,0.0
+natural-questions,719,who played juggles the clown on fresh prince,Dorien Wilson Wilson appeared in Disney Channel's series That's So,prince,0.0
+natural-questions,720,the oc when do ryan and marissa get together,Marissa Cooper Ryan Atwood is Marissa's second boyfriend on The,oc,0.0
+natural-questions,721,where are the davis mountains located in texas,"Davis Mountains The Davis Mountains, originally known as Limpia Mountains,",texas,0.0
+natural-questions,722,who was the leader of solidarity movement in poland,"Solidarity (Polish trade union) Solidarity (Polish: Solidarność, pronounced [sɔliˈdarnɔɕt͡ɕ] (",poland,0.0
+natural-questions,723,what is swap long and swap short in forex,"Foreign exchange swap Once a foreign exchange transaction settles, the",swap long,0.2
+natural-questions,724,who sang the original song you are my sunshine,"You Are My Sunshine ""You Are My Sunshine"" is a",you are my sunshine,0.6153846153846153
+natural-questions,725,how many points did pete maravich average in the nba,"Pete Maravich Peter Press Maravich (June 22, 1947 – January",entailment,0.0
+natural-questions,726,when did ms dhoni join indian cricket team,MS Dhoni The Indian ODI team in the early 2000s,2008,0.0
+natural-questions,727,where is the women's rugby world cup played,Women's Rugby World Cup The Women's Rugby World Cup is,Australia,0.0
+natural-questions,728,if you think you've lost you have poem,"Thinking (poem) If you think you'll lose, you've lost; For",poem,0.15384615384615385
+natural-questions,729,when was the second tacoma narrows bridge built,"Tacoma Narrows Bridge By 1990, population growth and development on",not_entailment,0.0
+natural-questions,730,where are they going to play uefa champions league final,2018 UEFA Champions League Final The 2018 UEFA Champions League,uefa champions league final,0.6153846153846153
+natural-questions,731,what is the highest point in portland oregon,"Portland, Oregon Though much of downtown Portland is relatively flat,",not_equivalent,0.0
+natural-questions,732,who were the three european kings who participated in the third crusade,"Third Crusade After the failure of the Second Crusade, the",three european kings,0.0
+natural-questions,733,where did love bugs in florida come from,Lovebug The species was first described in 1940 by D.,where did love bugs come from,0.0
+natural-questions,734,what is lease to buy option on homes,Lease-option A lease option (more formally Lease With the Option,lease to buy option,0.30769230769230765
+natural-questions,735,does the texas flag fly at the same height as the american flag,Flag of Texas The flag is required by law to,entailment,0.0
+natural-questions,736,who sang the theme tune to dear john,Dear John (UK TV series) The title music was composed,michael jackson,0.0
+natural-questions,737,what does the don t tread on me flag stand for,Gadsden flag The traditional version of the First Navy Jack,not_entailment,0.0
+natural-questions,738,in what episode does haley die from criminal minds,Aaron Hotchner Hotch begins the series married to his high,entailment,0.0
+natural-questions,739,was harvey a hurricane or a tropical storm,Hurricane Harvey Hurricane Harvey was an extremely destructive Atlantic hurricane,hurricane,0.19999999999999998
+natural-questions,740,who were the founding members of pink floyd,Pink Floyd Pink Floyd were founded by students Syd Barrett,not_entailment,0.0
+natural-questions,741,who hosted the first jeopardy episode on march 30th 1964,Jeopardy! Both NBC versions and the weekly syndicated version were,George W.,0.0
+natural-questions,742,what is the basic function of the cookie and where is it stored,"HTTP cookie An HTTP cookie (also called web cookie, Internet",not_entailment,0.0
+natural-questions,743,british pilot crashed and was killed while trying to break the sound barrier on september 27th 1946,"de Havilland DH 108 The first DH 108 prototype, serial",False,0.0
+natural-questions,744,when does star trek discovery season 2 start,Star Trek: Discovery (season 2) The season is expected to,not_entailment,0.0
+natural-questions,745,who does the voice over for arrested development,Arrested Development (TV series) Arrested Development is an American television,not_entailment,0.0
+natural-questions,746,where was the movie when we first met filmed,When We First Met Principal photography on the film began,Hollywood,0.0
+natural-questions,747,what town in italy was everybody loves raymond filmed,Italy (Everybody Loves Raymond) After the first season of Everybody,italy,0.19999999999999998
+natural-questions,748,who is zack from saved by the bell,"Mark-Paul Gosselaar Mark-Paul Harry Gosselaar (/ˈɡɒslər/;[1] born March 1, 1974)",zack,0.0
+natural-questions,749,who sang i will leave a light on,"Leave a Light On (Tom Walker song) ""Leave a Light",a light on,0.4
+natural-questions,750,when did benjamin orr of the cars die,"Benjamin Orr Benjamin Orzechowski (September 8, 1947 â€“ October 3,",not_entailment,0.0
+natural-questions,751,what are the names of the matrix movies,The Matrix (franchise) The series began with the feature film,the names of the movies,0.0
+natural-questions,752,when do old english sheep dogs turn grey,Old English Sheepdog Colour of the double coat may be,not_entailment,0.0
+natural-questions,753,who built the first known civilization in the americas,"History of the Americas In the late Archaic, on the",the americas,0.25
+natural-questions,754,what's the name of the bird on snoopy,"Woodstock (Peanuts) In the early 1960s, Snoopy began befriending birds,",snoopy,0.19999999999999998
+natural-questions,755,where does the river welland start and finish,River Welland The River Welland is a lowland river in,where,0.0
+natural-questions,756,newton's law of universal gravitation and the second law of motion,Newton's law of universal gravitation Newton's law of universal gravitation,True,0.0
+natural-questions,757,where did the phrase she persisted come from,"Nevertheless, she persisted ""Nevertheless, she persisted"" is an expression adopted",from,0.0
+natural-questions,758,who played the butcher on the brady bunch,"Allan Melvin Allan John Melvin (February 18, 1923 – January",not_entailment,0.0
+natural-questions,759,who wrote the book it takes a village,It Takes a Village It Takes a Village: And Other,entailment,0.0
+natural-questions,760,who plays lead guitar on while my guitar gently weeps,"While My Guitar Gently Weeps On release, the song received",entailment,0.0
+natural-questions,761,do you need glasses for reald 3d movies,"RealD 3D The high-resolution, digital cinema grade video projector alternately",not_entailment,0.0
+natural-questions,762,what is the song that big ben plays,Westminster Quarters In the mid-19th century the chime was adopted,The song that big ben plays,0.0
+natural-questions,763,when did ringling brothers merge with barnum and bailey,Ringling Bros. and Barnum & Bailey Circus Ringling Bros. and,not_entailment,0.0
+natural-questions,764,where do cumulus clouds form in the atmosphere,Cumulus cloud The height at which the cloud forms depends,the atmosphere,0.0
+natural-questions,765,how.many episodes in game of thrones season 7,Game of Thrones (season 7) The seventh and penultimate season,entailment,0.0
+natural-questions,766,how did the porsche boxster get its name,Porsche Boxster/Cayman The Boxster's name is derived from the word,porsche boxster,0.33333333333333337
+natural-questions,767,when were smart meters introduced in the uk,"Smart meter In August 2007, the UK Government held a",in the uk,0.4
+natural-questions,768,who sings didn't i see you crying,"I Want You to Want Me ""I Want You to",not_entailment,0.0
+natural-questions,769,who sang delta dawn first helen reddy and tanya tucker,"Delta Dawn ""Delta Dawn"" is a song written by former",helen reddy,0.0
+natural-questions,770,who has scored the most goals in football world cup,FIFA World Cup top goalscorers The top goalscorer of the,not_duplicate,0.0
+natural-questions,771,when does singin in the rain take place,Singin' in the Rain Singin' in the Rain is a,not_entailment,0.0
+natural-questions,772,where did the idea for the statue of liberty originate,"Statue of Liberty According to the National Park Service, the",where,0.0
+natural-questions,773,why is there a citgo sign in boston,"Boston Citgo sign The first sign, featuring the Cities Service",not_entailment,0.0
+natural-questions,774,who plays jj in days of our lives,"Casey Moss Casey Allen Moss (born November 16, 1993) is",not_entailment,0.0
+natural-questions,775,how many parts of halloween movies are there,Halloween (franchise) Halloween is an American horror franchise that consists,2,0.0
+natural-questions,776,will there be a new series of the durrells,The Durrells A third series was confirmed to be in,entailment,0.0
+natural-questions,777,when did iced coffee become popular in the us,Iced coffee Iced coffee was popularized by a marketing campaign,in the us,0.0
+natural-questions,778,who is hosting new years eve in hollywood,Dick Clark's New Year's Rockin' Eve The complications of a,hollywood,0.0
+natural-questions,779,who won the battle of trenton in 1776,Battle of Trenton The Battle of Trenton was a small,George Washington,0.0
+natural-questions,780,what is proposed to be at the center of our galaxy,Galactic Center There are around 10 million stars within one,our galaxy,0.0
+natural-questions,781,where is the start of the river severn,"River Severn The River Severn (Welsh: Afon Hafren, Latin: Sabrina)",where is the start of the river severn,0.26666666666666666
+natural-questions,782,where does the name tartar sauce come from,Tartar sauce The sauce and its name have been found,the name tartar sauce comes from,0.42857142857142855
+natural-questions,783,who wrote the song bring it on home,"Bring It On Home (Sonny Boy Williamson II song) ""Bring",entailment,0.0
+natural-questions,784,who wrote this land was made for you and me,"This Land Is Your Land ""This Land Is Your Land""",you and me,0.0
+natural-questions,785,when did drinking age change to 21 in ny,Alcohol laws of New York In response to the National,ny,0.0
+natural-questions,786,what kind of tree do truffles grow under,"Truffle The mycelia of truffles form symbiotic, mycorrhizal relationships with",under,0.0
+natural-questions,787,what is a double die penny look like,Doubled die Doubled die is a term in numismatics used,not_entailment,0.0
+natural-questions,788,how long were soldiers on the beach at dunkirk,"Dunkirk evacuation The Dunkirk evacuation, code-named Operation Dynamo, and also",2,0.0
+natural-questions,789,where is war planet of the apes filmed,War for the Planet of the Apes Principal photography began,the apes,0.2222222222222222
+natural-questions,790,where was the first shot fired in the revolutionary war,Battles of Lexington and Concord The Battles of Lexington and,New York,0.0
+natural-questions,791,where is the lord is my shepherd in the bible,Psalm 23 Psalm 23 (Greek numbering: Psalm 22 because of,in the bible,0.0
+natural-questions,792,who wrote the song you look perfect tonight,"Perfect (Ed Sheeran song) ""Perfect"" is a song by English",entailment,0.0
+natural-questions,793,who played herman munster on the tv show the munsters,The Munsters The Munsters is an American sitcom depicting the,actor,0.0
+natural-questions,794,when did west coast customs moved to burbank,West Coast Customs During filming of Season 5 Episode 12,when did west coast customs move to burbank,0.33333333333333326
+natural-questions,795,when did new york giants move to san francisco,San Francisco Giants The San Francisco Giants are an American,san francisco,0.4
+natural-questions,796,who was allowed to vote for president in the early united states,Voting rights in the United States The United States Constitution,not_duplicate,0.0
+natural-questions,797,which event involved the training of cuban exiles by the central intelligence agency,Bay of Pigs Invasion The Bay of Pigs Invasion (Spanish:,The event involved the training of cuban exiles,0.13333333333333333
+natural-questions,798,who does seth curry's brother play for,"Seth Curry Curry's father, Dell, is a former professional basketball",his brother,0.0
+natural-questions,799,what is the queen of spain's name,Queen Letizia of Spain Letizia Ortiz Rocasolano (Spanish pronunciation: [leˈtiθja];,queen of spain,0.4
+natural-questions,800,who made the song help me make it through the night famous,"Help Me Make It Through the Night ""Help Me Make",famous,0.0
+natural-questions,801,when does a court case have a jury,Jury trial Every person accused of a crime punishable by,not_entailment,0.0
+natural-questions,802,which entity determines the power of local governments,Local government A local government is a form of public,local governments,0.2
+natural-questions,803,what is the use of pointers to pointers,Pointer (computer programming) Pointers to data significantly improve performance for,not_entailment,0.0
+natural-questions,804,where is the colorado river located on the map,Colorado River The Colorado River is one of the principal,the colorado river,0.4
+natural-questions,805,what is the social construction of reality in sociology,The Social Construction of Reality Berger and Luckmann introduced the,social construction,0.4
+natural-questions,806,what is the climate like in frankfurt germany,Frankfurt Frankfurt has a temperate-oceanic climate (Köppen: Cfb). Its average,germany,0.0
+natural-questions,807,how much of the colorado river reaches the ocean,Colorado River Flows at the mouth of the river have,about,0.0
+natural-questions,808,who used poison gas first in world war 1,Chemical weapons in World War I The most frequently used,entailment,0.0
+natural-questions,809,what level does the air quality index have to be above to be considered hazardous,Air quality index The United States Environmental Protection Agency (EPA),above,0.0
+natural-questions,810,what is the lagging strand in dna replication,DNA replication The lagging strand is the strand of nascent,dna replication,0.4
+natural-questions,811,who presented the last seperate rail budget in india,Rail Budget The last Railway Budget [8] was presented on,entailment,0.0
+natural-questions,812,when is el dia de la raza celebrated,Columbus Day Columbus Day is a national holiday in many,the dia de la raza,0.0
+natural-questions,813,who created the ball point pen in 1944,"Ballpoint pen In 1941, the Bíró brothers and a friend,",False,0.0
+natural-questions,814,should you sleep north south or east west,Sleeping positions The Indian Vastu Shastra and Chinese Feng shui,not_entailment,0.0
+natural-questions,815,when did the brown vs the board of education start,"Brown v. Board of Education In 1951, a class action",2009,0.0
+natural-questions,816,where was the french colony of new france located,"New France Thus, it extended from Newfoundland to the Canadian",the french colony of new france,0.2857142857142857
+natural-questions,817,what type of animal is silver from sonic the hedgehog,"List of Sonic the Hedgehog characters Silver the Hedgehog (シルバー・ザ・ヘッジホッグ,",hedgehog,0.25
+natural-questions,818,dominant fuels used to generate electricity in the usa,Energy in the United States The majority of this energy,entailment,0.0
+natural-questions,819,what is the name of the highest mountain on mars,"Olympus Mons Olympus Mons ( /əˌlɪmpəs ˈmɒnz, oʊ-, -ˈmɒns/;[4][5] Latin",highest mountain on mars,0.0
+natural-questions,820,who races in the isle of man tt,Isle of Man TT Entrants must be in possession of,not_entailment,0.0
+natural-questions,821,who's the winner of khatron ke khiladi 2016,Fear Factor: Khatron Ke Khiladi (season 7) The seventh season,the winner,0.0
+natural-questions,822,why do commercial toilet seats have a split,Toilet seat The purpose for this seat design is to,why do commercial toilet seats have a split,0.125
+natural-questions,823,when did high speed hdmi cables come out,"HDMI HDMI 1.3 was released on June 22, 2006 and",entailment,0.0
+natural-questions,824,when does pollen tube develop in a flower,Pollen tube Once a pollen grain settles on a compatible,when does pollen tube develop in a flower,0.26666666666666666
+natural-questions,825,fish appeared in the fossil record during the,Evolution of fish The evolution of fish began about 530,False,0.0
+natural-questions,826,where did the girl get her arm bitten off,"Bethany Hamilton On October 31, 2003, Hamilton, aged 13 at",arm bitten off,0.0
+natural-questions,827,who wrote the aztec version of the conquest of mexico,Spanish conquest of the Aztec Empire Two lengthy accounts from,aztec,0.19999999999999998
+natural-questions,828,when did the luge start in the olympics,Luge The first organized meeting of the sport took place,not_entailment,0.0
+natural-questions,829,how long does a cow give milk after calving,Dairy cattle The dairy cow will produce large amounts of,after calving,0.0
+natural-questions,830,where is the next ryder cup being played,2018 Ryder Cup The 42nd Ryder Cup Matches will be,ryder cup,0.3636363636363636
+natural-questions,831,what was the symbolism in the very first traditional 7 pointed pinatas in mexico,Piñata The Mexican Catholic interpretation of the pi単ata rested on,7 pointed pinata,0.0
+natural-questions,832,who drove the 18 wheeler in smokey and the bandit,Smokey and the Bandit The Burdettes find legendary trucker Bo,the bandit,0.2222222222222222
+natural-questions,833,what movie is the song i will remember you from,"I Will Remember You (Sarah McLachlan song) ""I Will Remember",The song i will remember you from,0.625
+natural-questions,834,who is the head coach for notre dame football,Brian Kelly (American football coach) Brian Keith Kelly (born October,False,0.0
+natural-questions,835,where were the tower of london poppies made,Blood Swept Lands and Seas of Red Blood Swept Lands,where,0.0
+natural-questions,836,where was the game of badminton first played,Badminton The game may have originally developed among expatriate officers,New York,0.0
+natural-questions,837,when do the christmas markets begin in germany,"Christmas market In many towns in Germany, Switzerland, and Austria,",not_entailment,0.0
+natural-questions,838,who is the lead singer of lcd soundsystem,LCD Soundsystem LCD Soundsystem is an American rock band from,False,0.0
+natural-questions,839,how many parts of twilight movies are there,The Twilight Saga (film series) The Twilight Saga is a,2,0.0
+natural-questions,840,who commanded the british army at yorktown virginia,"Siege of Yorktown The Siege of Yorktown, also known as",False,0.0
+natural-questions,841,where did the phrase go to hell in a handbasket come from,To hell in a handbasket I. Windslow Ayer's 1865 polemic[2],from,0.0
+natural-questions,842,what was the cause of the explosion of the battleship maine,USS Maine (ACR-1) The cause of Maine's sinking remains a,explosion,0.0
+natural-questions,843,what animals do they have at flamingo land,Flamingo Land Flamingo Land once[when?] claimed to be the largest,animals,0.0
+natural-questions,844,the interior of the alpha helix along the central axis contains,Alpha helix Coiled-coil α helices are highly stable forms in,interior,0.0
+natural-questions,845,where was where the red fern grows filmed,Where the Red Fern Grows (1974 film) The film was,where the red fern grows filmed,0.6153846153846154
+natural-questions,846,who does sean astin play in lord of the rings,"Sean Astin Sean Patrick Astin (né Duke; February 25, 1971)",sean astin,0.33333333333333337
+natural-questions,847,would an electron be considered a type of atom,Electron Interactions involving electrons with other subatomic particles are of,False,0.0
+natural-questions,848,who sang the song i can only imagine first,"I Can Only Imagine (MercyMe song) ""I Can Only Imagine""",who sang the song,0.15384615384615383
+natural-questions,849,when does pam get pregnant for the second time,"Pam Beesly At the beginning of Season 8, Pam is",not_entailment,0.0
+natural-questions,850,where do they put the chip in dogs,"Microchip implant (animal) In dogs and cats, chips are usually",the chip in dogs,0.30769230769230765
+natural-questions,851,what is the alcohol content of molson canadian,Molson Canadian Molson Canadian is a brand of 5% abv,alcohol,0.0
+natural-questions,852,when does trey get shot in the oc,Trey Atwood Trey is revealed to have been in a,octobre,0.0
+natural-questions,853,name or list three components of a lipid raft,Lipid raft One key difference between lipid rafts and the,not_entailment,0.0
+natural-questions,854,when was the rose that grew from concrete written,The Rose That Grew from Concrete (poetry collection) The Rose,not_entailment,0.0
+natural-questions,855,who is next in line for the royal throne of england,Succession to the British throne Queen Elizabeth II is the,prince,0.0
+natural-questions,856,how strong was the 2011 earthquake in japan,2011 Tōhoku earthquake and tsunami The 2011 earthquake off the,magnitude,0.0
+natural-questions,857,when does season 13 of criminal minds begin,Criminal Minds (season 13) The thirteenth season of Criminal Minds,entailment,0.0
+natural-questions,858,how did the mission of kirtland air force base change as it teamed up with the manhattan project,Kirtland Air Force Base Perhaps one of the most important,not_entailment,0.0
+natural-questions,859,who won the world cup the most time,FIFA World Cup The 21 World Cup tournaments have been,the most time,0.0
+natural-questions,860,how many parts of speech exist in english grammar,"English grammar Eight ""word classes"" or ""parts of speech"" are",entailment,0.0
+natural-questions,861,why is bread important to the french culture,"Bread in culture During the 18th century, the moral economy",important to the french culture,0.16666666666666666
+natural-questions,862,legal age to get a tattoo in cyprus,Legal status of tattooing in the European Union The legal,cyprus,0.0
+natural-questions,863,what breeds are in a black russian terrier,"Black Russian Terrier Despite its name, the Black Russian Terrier",russian terrier,0.3636363636363636
+natural-questions,864,who wrote the book the handmaid's tale,The Handmaid's Tale The Handmaid's Tale is a dystopian novel[2],the handmaid's tale,0.4615384615384615
+natural-questions,865,who's won the snooker world championship the most,List of world snooker champions The most successful player at,,0.0
+natural-questions,866,which two bodies of water give the sinai peninsula its triangular shape,Geography of Egypt The southern side of the peninsula has,entailment,0.0
+natural-questions,867,highest point from the center of the earth,"Chimborazo With a peak elevation of 6,263 m (20,548 ft),",entailment,0.0
+natural-questions,868,who won man of the match in 1983 world cup final,"1983 Cricket World Cup Final After losing the toss, India",Falk,0.0
+natural-questions,869,when does the spider-man homecoming movie come out,"Spider-Man: Homecoming Spider-Man: Homecoming premiered in Hollywood on June 28,",when does the homecoming movie come out,0.1111111111111111
+natural-questions,870,when did the haves and have nots come back on,The Haves and the Have Nots (TV series) On November,when did the haves and have nots come back on,0.5882352941176471
+natural-questions,871,what do the seven churches in revelation represent,"Seven churches of Asia The ""churches"" in this context refers",not_entailment,0.0
+natural-questions,872,how many animals are in the smithsonian zoo,National Zoological Park (United States) The two facilities host about,zoo,0.0
+natural-questions,873,who plays the dwarf in the lord of the rings,John Rhys-Davies He is also known for his popular portrayal,entailment,0.0
+natural-questions,874,how far is murrysville pa from pittsburgh pa,"Murrysville, Pennsylvania Murrysville is located at 40°26′5″N 79°39′24″W﻿ / ﻿40.43472°N",0.4,0.0
+natural-questions,875,what is the job of the food and drug administration,Food and Drug Administration The Food and Drug Administration (FDA,food and drug administration,0.6153846153846153
+natural-questions,876,actor who played scarecrow in wizard of oz,"Ray Bolger Raymond Wallace ""Ray"" Bolger (January 10, 1904 â€“",actor who played scarecrow,0.0
+natural-questions,877,as a factor of production what is capital,Factors of production The classical economists also employed the word,capital,0.0
+natural-questions,878,where do we get most of our electricity energy from,Electricity generation Almost all commercial electrical power on Earth is,where,0.0
+natural-questions,879,is penn foster an accredited online high school,Penn Foster High School Penn Foster High School is a,False,0.0
+natural-questions,880,who played the son in smokey and the bandit,Smokey and the Bandit The trip to Texas is mostly,the bandit,0.2222222222222222
+natural-questions,881,who was the lead singer of simple minds,Jim Kerr James Kerr (born 9 July 1959) is a,entailment,0.0
+natural-questions,882,who was the first person to sing you were always on my mind,"Always on My Mind ""Always on My Mind"" is a",not_entailment,0.0
+natural-questions,883,who played the oldest brother in malcolm in the middle,"Characters of Malcolm in the Middle Francis, played by Christopher",False,0.0
+natural-questions,884,who is the youngest of the kardashian sisters,"Kylie Jenner Jenner was born in Los Angeles, California. She",not_entailment,0.0
+natural-questions,885,who played in the 1998 afl grand final,1998 AFL Grand Final The 1998 AFL Grand Final was,afl grand final,0.5
+natural-questions,886,who plays meg's voice on family guy,Meg Griffin Meg made her first appearance on television when,actor,0.0
+natural-questions,887,what type of boundary divides canada from the united states,"Canada–United States border The Canada–United States border (French: frontière Canada–États-Unis),",boundary,0.0
+natural-questions,888,where did the brady bunch live in california,"The Brady Bunch Mike Brady (Robert Reed), a widowed architect",california,0.0
+natural-questions,889,what is the purpose of a probate court,Probate court A probate court (sometimes called a surrogate court),not_entailment,0.0
+natural-questions,890,what is the second law of thermodynamics physics,Second law of thermodynamics The second law of thermodynamics states,not_entailment,0.0
+natural-questions,891,who did the united states side with during the war between britain and france,France–United States relations A crisis emerged in 1793 when France,france,0.18181818181818182
+natural-questions,892,where are taste receptors located on the tongue,"Taste bud Taste buds contain the taste receptor cells, which",on the tongue,0.0
+natural-questions,893,who wrote the song ask the blind man he saw it all,"Daryl Mosley Daryl Mosley (born September 21, 1964) is an",entailment,0.0
+natural-questions,894,what were the main objectives of the spanish in the new world,Natural history in the Spanish New World The primary objective,not_entailment,0.0
+natural-questions,895,where did the song london bridge is falling down,"London Bridge Is Falling Down ""London Bridge Is Falling Down""",london bridge is falling down,0.6666666666666666
+natural-questions,896,who was the original singer of the song hallelujah,"Hallelujah (Leonard Cohen song) ""Hallelujah"" is a song written by",singer,0.0
+natural-questions,897,when was the first garage door opener invented,Garage door opener The electric overhead garage door opener was,1907,0.0
+natural-questions,898,what mountain system runs along australia's eastern coast,"Great Dividing Range The Great Dividing Range, or the Eastern",the mountain system,0.0
+natural-questions,899,what is the pattern for the tower of hanoi,Tower of Hanoi A simple solution for the toy puzzle,pattern,0.0
+natural-questions,900,where is lake windermere on the uk map,Lake District The Lake District is located entirely within the,not_entailment,0.0
+natural-questions,901,what are the two main functions of the eggshell,"Eggshell The bird egg is a fertilized gamete (or, in",not_entailment,0.0
+natural-questions,902,what happened to jimmy and chloe in smallville,"Chloe Sullivan In Smallville, Chloe is Clark Kent's best friend,",entailment,0.0
+natural-questions,903,who played in the national championship last year,2016 College Football Playoff National Championship The game was played,the national championship,0.3636363636363636
+natural-questions,904,when was the 100 dollar bill made in australia,Australian one hundred-dollar note The Australian one hundred-dollar banknote was,the 100 dollar bill made in australia,0.11764705882352942
+natural-questions,905,what kind of breed is a boston terrier,Boston Terrier The Boston Terrier is a breed of dog,boston terrier,0.4
+natural-questions,906,who sang sister mary robert in sister act,Andrea Robinson (singer) Andrea Robinson is an American singer and,entailment,0.0
+natural-questions,907,the yellow wallpaper by charlotte perkins gilman synopsis,The Yellow Wallpaper The story depicts the effect of understimulation,negative,0.0
+natural-questions,908,when did the former french colonies in west and equatorial africa achieve full sovereignty,"Decolonization Italy had occupied the Dodecanese islands in 1912, but",2006,0.0
+natural-questions,909,who wrote the book lamentations in the bible,"Book of Lamentations Lamentations has traditionally been ascribed to Jeremiah,",entailment,0.0
+natural-questions,910,river in china near the capital city of beijing,"Beijing Major rivers flowing through the municipality, including the Chaobai,",entailment,0.0
+natural-questions,911,where did the most serious canadian revolt against british rule take place,"Upper Canada Rebellion Compared to the Lower Canada Rebellion, the",Toronto,0.0
+natural-questions,912,who built the sudarshan lake in the saurashtra region,History of Gujarat Chandragupta Maurya of Maurya dynasty conquered a,entailment,0.0
+natural-questions,913,who was originally offered the role of pretty woman,Pretty Woman Casting of the film was a rather lengthy,not_entailment,0.0
+natural-questions,914,how many chromosomes does a human diploid cell have,"Ploidy Humans are diploid organisms, carrying two complete sets of",2,0.0
+natural-questions,915,who won the national championship college football 2016,2016 College Football Playoff National Championship The 13–1 Alabama Crimson,McKinney,0.0
+natural-questions,916,who does chuck see at his father's grave,"The Debarted (Gossip Girl) Back in New York, Eric (Connor",his father's grave,0.0
+natural-questions,917,when was the chinese take out box invented,"Oyster pail Early patents date to 1890,[2] 1894[3] and 1908.[4]",when the chinese take out box,0.0
+natural-questions,918,what was the capital of the eastern empire,"Byzantine Empire The Byzantine Empire, also referred to as the",New York,0.0
+natural-questions,919,who are the crakers in oryx and crake,Oryx and Crake The novel focuses on a post-apocalyptic character,crake,0.19999999999999998
+natural-questions,920,who was the artist that cut his ear off,"Vincent van Gogh After the altercation with Gauguin, Van Gogh",artist,0.0
+natural-questions,921,who was the shooter in the florida shooting 2018,"Stoneman Douglas High School shooting On February 14, 2018, a",entailment,0.0
+natural-questions,922,why does jughead wear a s on his shirt,Jughead Jones Another mystery that follows Jughead's character is the,not_entailment,0.0
+natural-questions,923,what is the form of government in the united states,Federal government of the United States The outline of the,government,0.25
+natural-questions,924,who is neil young dancing with in harvest moon,Harvest Moon (Neil Young song) The song uses a moon,entailment,0.0
+natural-questions,925,where did the name 8 out of 10 cats come from,8 Out of 10 Cats The show is based on,cats,0.19999999999999998
+natural-questions,926,where was the first parliament held in australia,Parliament of Australia The Commonwealth of Australia came into being,australia,0.19999999999999998
+natural-questions,927,a huge cloud of dust and gas from which stars form,Star formation A spiral galaxy like the Milky Way contains,entailment,0.0
+natural-questions,928,who played tonks in harry potter and the half blood prince,Natalia Tena Natalia Gastiain Tena[1] (born 1 November 1984) is,the half blood prince,0.0
+natural-questions,929,what happened to guam during the spanish american war,Capture of Guam The Capture of Guam was a bloodless,guam,0.2222222222222222
+natural-questions,930,when did the black death end in europe,Black Death The Black Death is thought to have originated,the end of europe,0.0
+natural-questions,931,what was the overall purpose of the counter reformation,"Counter-Reformation The Counter-Reformation (Latin: Contrareformatio), also called the Catholic Reformation",entailment,0.0
+natural-questions,932,who are the winners for dancing with the stars,List of Dancing with the Stars (U.S.) competitors As of,not_entailment,0.0
+natural-questions,933,where did india get its nuclear weapons from,India and weapons of mass destruction The Republic of India,from,0.0
+natural-questions,934,what is the last season of being mary jane,Being Mary Jane Being Mary Jane has received positive reviews,not_entailment,0.0
+natural-questions,935,what is the difference between ice brent crude and wti crude,"Brent Crude Brent blend is a light crude oil (LCO),",not_entailment,0.0
+natural-questions,936,what are the names of all the percy jackson movies,Percy Jackson (film series) Percy Jackson & the Olympians (also,percy jackson movies,0.36363636363636365
+natural-questions,937,who is known as the father of trigonometry,"Hipparchus Hipparchus of Nicaea' (/hɪˈpɑːrkəs/; Greek: Ἵππαρχος, Hipparkhos; c. 190",Albert Einstein,0.0
+natural-questions,938,when does a place to call home return in 2018,A Place to Call Home (TV series) The sixth and,2018,0.0
+natural-questions,939,what is the ethnicity of lana del rey,Lana Del Rey Elizabeth Woolridge Grant was born in New,ethnicity,0.0
+natural-questions,940,where did the woodstock music festival take place,"Woodstock The Woodstock Music & Art Fair—informally, the Woodstock Festival",Woodstock,0.2222222222222222
+natural-questions,941,how many champions league titles does bayern munich have,FC Bayern Munich FC Bayern was founded in 1900 by,entailment,0.0
+natural-questions,942,where is the syrian desert located on a map,"Syrian Desert The Syrian Desert (Arabic: بادية الشام‎, Bâdiyat aş-Şâm),",the syrian desert,0.3636363636363636
+natural-questions,943,who is playing black panther in the movie,Black Panther (film) Black Panther is an upcoming American superhero,False,0.0
+natural-questions,944,where are the 2018 winter olympics being held,"2018 Winter Olympics The 2018 Winter Olympics, officially known as",Winter olympics,0.3636363636363636
+natural-questions,945,which industry provides the largest employment in india,Economy of India India has one of the fastest growing,construction,0.0
+natural-questions,946,which state of india share border with bangladesh,"Bangladesh–India border Bangladesh and India share a 4,156 km (2,582",bangladesh,0.15384615384615385
+natural-questions,947,who wrote the song angels by robbie williams,"Angels (Robbie Williams song) ""Angels"" is a song originally recorded",robbie williams,0.3636363636363636
+natural-questions,948,where are the goals located on an ice rink,"Ice hockey rink At each end of the ice, there",an ice rink,0.3636363636363636
+natural-questions,949,what does the ductus arteriosus become following birth,"Ductus arteriosus In the developing fetus, the ductus arteriosus, also",ductus arteriosus,0.4
+natural-questions,950,when does torchwood spin off from doctor who,Torchwood Torchwood (UK: /ˈtɔːrtʃˌwʊd/) is a British science fiction television,not_entailment,0.0
+natural-questions,951,who is the presiding officer of the texas house of representatives,Speaker of the Texas House of Representatives The Speaker of,not_entailment,0.0
+natural-questions,952,when does a series of unfortunate events season two come out on netflix,"A Series of Unfortunate Events (TV series) The first season,",when does a series of unfortunate events season two come out,0.5555555555555556
+natural-questions,953,who plays kelly from saved by the bell,"Tiffani Thiessen Tiffani Amber Thiessen (born January 23, 1974) is",kelly,0.0
+natural-questions,954,what film did charlize theron win an oscar for,Charlize Theron Theron came to international prominence in the 1990s,The film,0.0
+natural-questions,955,where do they print money in south africa,South African Bank Note Company The South African Bank Note,south africa,0.1818181818181818
+natural-questions,956,what are the five main characteristics of a synovial joint,"Synovial joint A synovial joint, also known as diarthrosis, joins",entailment,0.0
+natural-questions,957,who is the first millitry head of state in nigeria,Nigerian military juntas of 1966–79 and 1983–98 Nigeria's first military,not_entailment,0.0
+natural-questions,958,when is fresh off the boat supposed to take place,Fresh Off the Boat The story follows the course of,not_entailment,0.0
+natural-questions,959,what is considered a story in a house,Storey A storey (British English) or story (American English)[1] is,a story,0.18181818181818182
+natural-questions,960,how far is denver colorado from castle rock colorado,"Castle Rock, Colorado Castle Rock is located at 39°22′20″N 104°51′22″W﻿",castle rock,0.2222222222222222
+natural-questions,961,when did oregon pass the death with dignity act,Oregon Ballot Measure 16 (1994) Measure 16 of 1994 established,entailment,0.0
+natural-questions,962,when was the gitanjali's english translation published,Gitanjali The original Bengali collection of 103/157 poems was published,not_entailment,0.0
+natural-questions,963,who sang you're the one that i want,"You're the One That I Want ""You're the One That",the one that i want,0.5714285714285715
+natural-questions,964,the medical procedure for drawing a sample of venous blood into a vacuum tube is known as,"Venipuncture In medicine, venipuncture or venepuncture is the process of",entailment,0.0
+natural-questions,965,when was the treaty of guadalupe hidalgo signed,Treaty of Guadalupe Hidalgo The Treaty of Guadalupe Hidalgo (Tratado,2009,0.0
+natural-questions,966,why do we draw a heart like that,"Heart (symbol) Greek. In the 6th-5th century BC, the heart",we draw a heart like that,0.14285714285714285
+natural-questions,967,crimes that do not require mens rea are known as,Mens rea The standard common law test of criminal liability,crime that does not require mens rea,0.25
+natural-questions,968,when was the first atm installed in uk,Automated teller machine It is widely accepted that the first,the first,0.19999999999999998
+natural-questions,969,where did the name the beatles come from,"The Beatles In March 1957, John Lennon, then aged sixteen,",from,0.0
+natural-questions,970,who played patty in diary of a wimpy kid,"Laine MacNeil Laine MacNeil (born October 28, 1996)[1][2] is a",patty,0.0
+natural-questions,971,do polar bears live in the arctic circle,Polar bear The polar bear (Ursus maritimus) is a hypercarnivorous,polar bears,0.2
+natural-questions,972,how did the boy from kris kross died,"Kris Kross On May 1, 2013, Chris Kelly was found",not_entailment,0.0
+natural-questions,973,what happened to the first face on the a team,"Templeton Peck Lieutenant Templeton Arthur Peck, played by Dirk Benedict,",entailment,0.0
+natural-questions,974,extension and dimension of great wall of china,Great Wall of China The Great Wall stretches from Dandong,entailment,0.0
+natural-questions,975,where was guardians of the galaxy 2 filmed,Guardians of the Galaxy Vol. 2 Principal photography began on,Hollywood,0.0
+natural-questions,976,economies of scale are most concerned with ____ costs,Economies of scale The simple meaning of economies of scale,__,0.0
+natural-questions,977,ghostbusters what happens when you cross the streams,Proton pack There's something very important I forgot to tell,entailment,0.0
+natural-questions,978,what was the purpose of the maxwell land grant,Maxwell Land Grant The lands covered in the Maxwell Land,not_entailment,0.0
+natural-questions,979,who plays young tom riddle in the chamber of secrets,Christian Coulson Christian Peter Coulson (born 3 October 1978) is,Tom,0.0
+natural-questions,980,who plays lil sweet on the dr pepper commercial,"Justin Guarini Since 2015, Guarini has been starring as Lil'",dr pepper,0.0
+natural-questions,981,where did the name long island come from,History of Long Island The western portion of Long Island,from,0.0
+natural-questions,982,when did the national minimum wage start in the uk,National Minimum Wage Act 1998 The National Minimum Wage Act,2009,0.0
+natural-questions,983,who directed one flew over the cuckoos nest,One Flew Over the Cuckoo's Nest (film) One Flew Over,the cuckoos nest,0.16666666666666669
+natural-questions,984,when did the first immigrants come to america,History of immigration to the United States In 1607 the,the first immigrants came to america,0.15384615384615385
+natural-questions,985,what is the origin of the name timothy,Timothy (given name) Timothy is a masculine name. It comes,timothy,0.19999999999999998
+natural-questions,986,who has been to the super bowl more times,List of Super Bowl champions The Pittsburgh Steelers (6–2) have,not_entailment,0.0
+natural-questions,987,who wrote the new york state constitution of 1777,New York Constitution The work of creating a democratic and,entailment,0.0
+natural-questions,988,what was part of both the articles of confederation and the constitution,"Articles of Confederation The Articles of Confederation, formally the Articles",not_entailment,0.0
+natural-questions,989,name canada’s two trading partners under the nafta agreement,"List of the largest trading partners of Canada Historically, the",not_entailment,0.0
+natural-questions,990,is bring me to life a christian song,"Bring Me to Life ""Bring Me to Life"" is a",entailment,0.0
+natural-questions,991,who sings the solos in seasons of love,"Seasons of Love In the stage production, the song is",not_entailment,0.0
+natural-questions,992,when do they announce the winner of american idol,American Idol (season 16) The sixteenth season of American Idol,entailment,0.0
+natural-questions,993,how many death stars were there in star wars,Death Star A number of fictional mobile space stations and,2,0.0
+natural-questions,994,when did season 4 of madam secretary start,Madam Secretary (season 4) The fourth season of the American,not_entailment,0.0
+natural-questions,995,when was cricket played first time in india,History of cricket in India to 1918 The first definite,when was the first time in india,0.4
+natural-questions,996,who dies in book 5 of harry potter,"Harry Potter and the Order of the Phoenix Luna, Ron,",not_entailment,0.0
+natural-questions,997,what are the names of the four vedas,"Vedas There are four Vedas: the Rigveda, the Yajurveda, the",four vedas,0.4444444444444445
+natural-questions,998,when did the dockers play in the grand final,2013 AFL Grand Final Fremantle entered the 2013 season having,when did they play in the grand final,0.25
+natural-questions,999,how long ago was the civil rights act,Civil Rights Act of 1964 The Civil Rights Act of,,0.0
