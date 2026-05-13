@@ -27,8 +27,7 @@ RAGs-to-Riches/
 │   │   ├── dpr_eval.ipynb
 │   │   ├── rag_token_train_eval.ipynb
 │   │   ├── rag_sequence_train_eval.ipynb
-│   │   ├── final_comparison.ipynb
-│   │   └── evaluate_em.py
+│   │   └── final_comparison.ipynb
 ├── data/
 │   └── README.md              ← dataset loaded automatically, no download needed
 ├── results/
