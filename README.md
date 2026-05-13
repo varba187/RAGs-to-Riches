@@ -69,7 +69,7 @@ RAGs-to-Riches/
 ## Re-implementation Details
 
 
-We used `t5-base` as a closed-book baseline, DPR + FAISS for retrieval, and `facebook/bart-base` as the generator for both RAG variants, trained on 10,000 NQ examples with 10,000 SQuAD passages as a proxy retrieval corpus. Key modifications: BART-base instead of BART-large (memory), SQuAD instead of Wikipedia (storage), token-level F1 instead of Exact Match, and 1,000 eval examples instead of the full NQ test set.
+We used `t5-base` as a closed-book baseline, DPR + FAISS for retrieval, and `facebook/bart-base` as the generator for both RAG variants, trained on 10,000 NQ examples with 10,000 SQuAD passages as a proxy retrieval corpus. Key modifications: BART-base instead of BART-large, SQuAD instead of Wikipedia, token-level F1 instead of Exact Match, and 1,000 eval examples instead of the full NQ test set.
 
 **Additional experiment:** We tested retrieval depth k ∈ {1, 3, 5, 10} on both RAG variants to analyze how the number of retrieved passages affects performance.
 
