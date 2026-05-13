@@ -68,25 +68,8 @@ RAGs-to-Riches/
 
 ## Re-implementation Details
 
-**Models:**
-- T5-base (closed-book baseline; paper used T5-11B)
-- DPR: `facebook/dpr-question_encoder-single-nq-base` + `facebook/dpr-ctx_encoder-single-nq-base`
-- RAG-Token and RAG-Sequence: DPR retriever + `facebook/bart-base` generator (paper used BART-large)
-- Retrieval index: FAISS IndexFlatIP (maximum inner product search)
 
-**Dataset:** Natural Questions (NQ) via Hugging Face. Used 10,000 training examples and 1,000 evaluation examples.
-
-**Passage corpus:** 10,000 SQuAD training contexts used as a proxy retrieval corpus in place of the original Wikipedia/Wiki-DPR index (unavailable at scale on Colab)
-
-**Evaluation metric:** Token-level F1 (paper used Exact Match)
-
-**Training:** RAG-Token and RAG-Sequence trained for 3 epochs using AdamW (lr=3e-5) with custom marginal log-likelihood loss functions implementing the token-level and sequence-level marginalization from the paper
-
-**Key modifications from the original:**
-- BART-base instead of BART-large (memory constraints)
-- SQuAD passages instead of full Wikipedia (storage/compute constraints)
-- Token-level F1 instead of Exact Match (to allow partial credit for prediction and golden answer overlaps at this scale)
-- Subset of NQ (1,000 evaluation examples) rather than the full test set
+We used `t5-base` as a closed-book baseline, DPR + FAISS for retrieval, and `facebook/bart-base` as the generator for both RAG variants, trained on 10,000 NQ examples with 10,000 SQuAD passages as a proxy retrieval corpus. Key modifications: BART-base instead of BART-large (memory), SQuAD instead of Wikipedia (storage), token-level F1 instead of Exact Match, and 1,000 eval examples instead of the full NQ test set.
 
 **Additional experiment:** We tested retrieval depth k ∈ {1, 3, 5, 10} on both RAG variants to analyze how the number of retrieved passages affects performance.
 
