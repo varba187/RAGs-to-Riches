@@ -29,7 +29,6 @@ RAGs-to-Riches/
 │   │   ├── rag_sequence_train_eval.ipynb
 │   │   ├── final_comparison.ipynb
 │   │   └── evaluate_em.py
-│   └── src/
 ├── data/
 │   └── README.md              ← dataset loaded automatically, no download needed
 ├── results/
