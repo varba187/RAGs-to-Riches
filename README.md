@@ -15,7 +15,9 @@ Closed-book models such as T5 rely only on parametric memory, which can lead to 
 
 ## Chosen Result
 
-We aimed to reproduce Table 1 (Natural Questions) from Lewis et al. (2020), which compares closed-book and open-book QA models. The key claim: RAG variants outperform T5 and DPR baselines on factual open-domain QA. Due to Google Colab compute and storage constraints, our goal was to reproduce the *trend* rather than exact scores.
+We aimed to reproduce Table 1 (Natural Questions) from Lewis et al. (2020), which compares closed-book and open-book QA models. The key claim: RAG variants outperform T5 and DPR baselines on factual open-domain QA. 
+![Original Table 1 from the RAG paper](results/original_table1.png)
+Due to Google Colab compute and storage constraints, our goal was to reproduce the *trend* rather than exact scores.
 
 ## GitHub Contents
  
